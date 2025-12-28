@@ -59,5 +59,5 @@ FastVisionModel.for_inference(model)
 # Chạy thử
 image_path = "test_image.jpg"
 instruction = "<image>\nFree OCR."
-# ... (Code inference chi tiết xem trong notebook)
+res = model.infer(tokenizer, prompt=instruction, image_file=image_path, output_path = output_path, base_size = 1024, image_size = 640, crop_mode=True, save_results = True, test_compress = False)
 ```
