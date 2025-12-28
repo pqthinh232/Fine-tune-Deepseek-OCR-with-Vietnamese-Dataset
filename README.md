@@ -1,47 +1,46 @@
 # Fine-tune-Deepseek-OCR-with-Vietnamese-Dataset
 
-Đồ án môn học: **Nhập môn Xử lý ngôn ngữ tự nhiên**  
-**Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM**
+Course Project: **Introduction to Natural Language Processing**  
+**University of Science, VNU-HCM**
 
-**Sinh viên thực hiện:** Phạm Quang Thịnh - MSSV: 23127485  
-**Giảng viên hướng dẫn:** TS. Nguyễn Hồng Bửu Long
+**Student:** Phạm Quang Thịnh - Student ID: 23127485  
+**Supervisor:** Dr. Nguyễn Hồng Bửu Long
 
 ---
 
-## Giới thiệu
-Dự án này thực hiện tinh chỉnh (Fine-tuning) mô hình DeepseekOCR (sử dụng thư viện **Unsloth**) trên bộ dữ liệu chữ viết tay tiếng Việt. Mục tiêu là cải thiện khả năng nhận diện tiếng Việt (dấu thanh, chữ viết tháu) và chuẩn hóa định dạng đầu ra.
+## Introduction
+This project focuses on fine-tuning the DeepseekOCR model (using the **Unsloth** library) on a Vietnamese handwritten text dataset. The goal is to improve Vietnamese text recognition performance (tone marks, cursive handwriting) and to standardize the output format.
 
-## Kết quả (Results)
-Sau 150 bước huấn luyện với kỹ thuật **QLoRA**, mô hình đạt được sự cải thiện vượt bậc trên tập Test độc lập (400 mẫu):
+## Results
+After 150 training steps using the **QLoRA** technique, the model achieved significant improvements on an independent Test set (400 samples):
 
-| Metric | Baseline (Gốc) | Fine-tuned (Sau khi train) | Cải thiện |
+| Metric | Baseline (Original) | Fine-tuned (After training) | Improvement |
 |:---|:---:|:---:|:---:|
-| **CER** (Lỗi ký tự) | 31.92% | **14.05%** | ⬇️ 17.87% |
-| **WER** (Lỗi từ) | 66.69% | **33.31%** | ⬇️ 33.39% |
+| **CER** (Character Error Rate) | 31.92% | **14.05%** | ⬇️ 17.87% |
+| **WER** (Word Error Rate) | 66.69% | **33.31%** | ⬇️ 33.39% |
 
-### So sánh trực quan
-Dưới đây là kết quả thực tế trên các mẫu chữ viết tay khó:
-![Visual Comparison](images/comparison_ocr.png)
-*(Mô hình Fine-tuned cải thiện độ chính xác dấu thanh và sửa lỗi từ vô nghĩa khá tốt so với Baseline)*
+### Visual Comparison
+Below are qualitative results on challenging handwritten samples:  
+![Visual Comparison](images/comparison_ocr.png)  
+*(The fine-tuned model significantly improves tone mark accuracy and corrects meaningless words compared to the baseline model.)*
 
 ---
 
 ## Dataset
+This project uses the **UIT-HWDB-line** dataset, which contains Vietnamese handwritten text images.
 
-Dự án sử dụng bộ dữ liệu **UIT-HWDB-line** bao gồm ảnh chữ viết tay tiếng Việt.
-
-- **Nguồn dữ liệu gốc:** https://github.com/nghiangh/UIT-HWDB-dataset
-- **Dữ liệu đã sử dụng trong đồ án:** https://drive.google.com/file/d/1KRla0siXCDxv9nRs-9XYdEqRbViKH0jE/view?usp=drive_link
+- **Original dataset source:** https://github.com/nghiangh/UIT-HWDB-dataset  
+- **Dataset used in this project:** https://drive.google.com/file/d/1KRla0siXCDxv9nRs-9XYdEqRbViKH0jE/view?usp=drive_link
 
 ## Model Checkpoint
-Do giới hạn dung lượng GitHub, trọng số mô hình (LoRA Adapters) được lưu trữ tại Google Drive.  
-**[TẢI MODEL TẠI ĐÂY](https://drive.google.com/drive/folders/1ESQruMMXlkr5KTK7rKzQa5gOJVEMYkVY?usp=drive_link)**
+Due to GitHub storage limitations, the model weights (LoRA adapters) are hosted on Google Drive.  
+**[DOWNLOAD THE MODEL HERE](https://drive.google.com/drive/folders/1ESQruMMXlkr5KTK7rKzQa5gOJVEMYkVY?usp=drive_link)**
 
 ---
 
-## 🚀 Hướng dẫn chạy (Usage)
+## Usage
 
-### 1. Cài đặt môi trường
+### 1. Environment Setup
 ```bash
 pip install -r requirements.txt
 ```
@@ -51,13 +50,23 @@ from unsloth import FastVisionModel
 
 # Load model & tokenizer
 model, tokenizer = FastVisionModel.from_pretrained(
-    "đường/dẫn/đến/folder/checkpoint",
+    "path/to/checkpoint/folder",
     load_in_4bit=True,
 )
 FastVisionModel.for_inference(model)
 
-# Chạy thử
+# Run inference
 image_path = "test_image.jpg"
 instruction = "<image>\nFree OCR."
-res = model.infer(tokenizer, prompt=instruction, image_file=image_path, output_path = output_path, base_size = 1024, image_size = 640, crop_mode=True, save_results = True, test_compress = False)
+res = model.infer(
+    tokenizer,
+    prompt=instruction,
+    image_file=image_path,
+    output_path=output_path,
+    base_size=1024,
+    image_size=640,
+    crop_mode=True,
+    save_results=True,
+    test_compress=False
+)
 ```
