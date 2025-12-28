@@ -3,13 +3,13 @@
 Đồ án môn học: **Nhập môn Xử lý ngôn ngữ tự nhiên**  
 **Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM**
 
-**Sinh viên thực hiện:** Phạm Quang Thịnh - [23127485]  
+**Sinh viên thực hiện:** Phạm Quang Thịnh - MSSV: 23127485  
 **Giảng viên hướng dẫn:** TS. Nguyễn Hồng Bửu Long
 
 ---
 
 ## Giới thiệu
-Dự án này thực hiện tinh chỉnh (Fine-tuning) mô hình Vision Language Model (sử dụng thư viện **Unsloth**) trên bộ dữ liệu chữ viết tay tiếng Việt. Mục tiêu là cải thiện khả năng nhận diện tiếng Việt (dấu thanh, chữ viết tháu) và chuẩn hóa định dạng đầu ra.
+Dự án này thực hiện tinh chỉnh (Fine-tuning) mô hình DeepseekOCR (sử dụng thư viện **Unsloth**) trên bộ dữ liệu chữ viết tay tiếng Việt. Mục tiêu là cải thiện khả năng nhận diện tiếng Việt (dấu thanh, chữ viết tháu) và chuẩn hóa định dạng đầu ra.
 
 ## Kết quả (Results)
 Sau 150 bước huấn luyện với kỹ thuật **QLoRA**, mô hình đạt được sự cải thiện vượt bậc trên tập Test độc lập (400 mẫu):
@@ -44,7 +44,9 @@ Do giới hạn dung lượng GitHub, trọng số mô hình (LoRA Adapters) đ�
 ### 1. Cài đặt môi trường
 ```bash
 pip install -r requirements.txt
-
+```
+### 2. Load Model & Inference
+```bash
 from unsloth import FastVisionModel
 
 # Load model & tokenizer
