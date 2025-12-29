@@ -16,12 +16,12 @@ After 150 training steps using the **QLoRA** technique, the model achieved signi
 
 | Metric | Baseline (%) | Fine-tuned (%) |
 |:---|:---:|:---:|
-| **Total CER** | 32.21 | **14.08** |
-| Mean CER | 32.47 | 14.11 |
-| Median CER | 28.11 | 12.22 |
+| **Total CER** | 32.21 | **14.24** |
+| Mean CER | 32.47 | 14.38 |
+| Median CER | 28.11 | 13.20 |
 | Min CER | 0.00 | 0.00 |
-| Max CER | 131.11 | 75.00 |
-| **Total WER** | 66.74 | **33.58** |
+| Max CER | 131.11 | 73.91 |
+| **Total WER** | 66.74 | **33.74** |
 
 
 ✅ **Improvement:** Decrease **18.13%** on total CER and decrease **33.16%** on total WER.
@@ -37,11 +37,11 @@ Below are qualitative results on challenging handwritten samples:
 This project uses the **UIT-HWDB-line** dataset, which contains Vietnamese handwritten text images.
 
 - **Original dataset source:** https://github.com/nghiangh/UIT-HWDB-dataset  
-- **Dataset used in this project:** https://drive.google.com/file/d/1n6RlmUpaWamsniIJk3aU3XgBcAEinW-s/view?usp=drive_link
+- **Dataset used in this project:** https://drive.google.com/file/d/1zCnmqOAD2toJOX-5K82RUODCbIbNL2vF/view?usp=drive_link
 
 ## Model Checkpoint
 Due to GitHub storage limitations, the model weights (LoRA adapters) are hosted on Google Drive.  
-**[DOWNLOAD THE MODEL HERE](https://drive.google.com/drive/folders/1pvL-O44_XUd2q6iMQXro8oBO42_Gh61S?usp=drive_link)**
+**[DOWNLOAD THE MODEL HERE](https://drive.google.com/drive/folders/1GswFD28b0PoRxCGGnzKUwHEhCwVawb-9?usp=drive_link)**
 
 ---
 

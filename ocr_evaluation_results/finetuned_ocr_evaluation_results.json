@@ -1,0 +1,2402 @@
+[
+    {
+        "index": 0,
+        "ground_truth": "nhặt chim xong, ông lại nhanh chóng dựng lưới lên. \" tớ cố phải làm",
+        "prediction": "nhật chùm xong, ông lại nhom chúng chúng lười lên. \" gói có phải làm",
+        "cer": 0.208955223880597
+    },
+    {
+        "index": 1,
+        "ground_truth": "nhanh lấy vài mẻ nữa kẻo khi trời tối hẳn thì hết cửa, chỉ còn khoảng",
+        "prediction": "nhành lấy vài mè nấu kết khi trở thành thịt chả cá, chị em khoáng",
+        "cer": 0.36231884057971014
+    },
+    {
+        "index": 2,
+        "ground_truth": "một tiếng nữa là chim về tổ hết \". lúc này, xung quanh khu vực săn",
+        "prediction": "một tiếng nói là chủ việc tổ hết \". lúc này, xung quanh khu vực sân",
+        "cer": 0.12121212121212122
+    },
+    {
+        "index": 3,
+        "ground_truth": "của ông h. chốc chốc lại có tiếng ống bơ kêu coong, coong... thế là",
+        "prediction": "cực ứng h. chốt chốt lại có trắng ông bố kiều cương, cương... thế là",
+        "cer": 0.22388059701492538
+    },
+    {
+        "index": 4,
+        "ground_truth": "lại thêm những chú chim vô tội nữa sa lưới... tội nghiệp chim trời.",
+        "prediction": "lại thêm những chủ chum vợ tới sa lưới... từ nghịp chum trời.",
+        "cer": 0.19402985074626866
+    },
+    {
+        "index": 5,
+        "ground_truth": "không biết có phải \" chim mỏi về rừng tìm chốn ngủ \" hay vì những điều",
+        "prediction": "không biết có phải \" chùm mờ viếng tìm chốn ngủ \" hay vì những điều",
+        "cer": 0.1
+    },
+    {
+        "index": 6,
+        "ground_truth": "kiện lý tưởng của cát bà mà cứ dịp cuối năm, mỗi ngày có hàng",
+        "prediction": "kiến lý thông của cát bà mơ cứ dự kiến năm, mở ngay có hàng",
+        "cer": 0.21311475409836064
+    },
+    {
+        "index": 7,
+        "ground_truth": "ngàn, hàng vạn con chim cuốc, le le, gà đồng... kéo nhau về đây",
+        "prediction": "người, hàng vạn con chum cuốn, lẻ lẻ, gà đông... kẻo nhaivì đây",
+        "cer": 0.19047619047619047
+    },
+    {
+        "index": 8,
+        "ground_truth": "tìm chốn ngủ.",
+        "prediction": "tìm chính người.",
+        "cer": 0.38461538461538464
+    },
+    {
+        "index": 9,
+        "ground_truth": "người thợ già như ông lão h. cũng không lý giải được điều này và có lẽ vì",
+        "prediction": "người thợ gửi nhi công kéo tí. cũng không lý giải được điều này và có lẽ vì",
+        "cer": 0.1095890410958904
+    },
+    {
+        "index": 10,
+        "ground_truth": "là chim trời nên ông cũng như hơn 20 thợ săn chim chuyên nghiệp ở xuân",
+        "prediction": "là chín trời nên ông cũng như hôm 20 thứ sáu chìm chuyển nghèo 3 xuân",
+        "cer": 0.18571428571428572
+    },
+    {
+        "index": 11,
+        "ground_truth": "đám và các xã lân cận từ mấy năm nay cứ thản nhiên, vô tư săn bắt.",
+        "prediction": "đám vợ các ra lâm cận tù mấy năm nay cũ thành nhiên, có tư sản bất",
+        "cer": 0.19696969696969696
+    },
+    {
+        "index": 12,
+        "ground_truth": "tuy hạt kiểm lâm huyện đã cấm nhưng vì muốn có thêm chút tiền nên",
+        "prediction": "tuy hát kiểm lâm huyện đã cảm nhũng với muốn có thêm chút hơn nên",
+        "cer": 0.12307692307692308
+    },
+    {
+        "index": 13,
+        "ground_truth": "chẳng ai từ chối cơ hội hiếm có này. việc săn bắt những con chim trời",
+        "prediction": "chẳng ai từ chối cơ hội hoàn cảnh này. việc sản bắt những con chim trời",
+        "cer": 0.10144927536231885
+    },
+    {
+        "index": 14,
+        "ground_truth": "theo ông h., \" cũng chẳng kiếm chác được bao nhiêu \" bởi có đem ra",
+        "prediction": "theo ông h., \" cũng chẳng biếm chắc được bao nhiêu \" bởi cô đem ra",
+        "cer": 0.045454545454545456
+    },
+    {
+        "index": 15,
+        "ground_truth": "chợ bán cũng chỉ được 2.000 - 5.000 đồng / con (tùy con to hay nhỏ,",
+        "prediction": "chợ lạnh cũng chỉ được 2.000 - 5.000 đồng / con (tuy con tự lấy hổ,",
+        "cer": 0.13432835820895522
+    },
+    {
+        "index": 16,
+        "ground_truth": "béo hay gầy), chẳng thấm tháp là bao so với hòn đảo giàu tiềm năng",
+        "prediction": "lực huy gây), chẳng thâm thớp là báo so với hơn đối với giường tiền này",
+        "cer": 0.3484848484848485
+    },
+    {
+        "index": 17,
+        "ground_truth": "du lịch này.",
+        "prediction": "dự thả nảy.",
+        "cer": 0.5
+    },
+    {
+        "index": 18,
+        "ground_truth": "\" bần cùng lắm thì làm thêm kiếm đồng tiền, bát gạo thôi \". đó là lý lẽ",
+        "prediction": "\" bản cũng làm thì làm thêm kiểm động tiền, bắt gạo thời \". đó là lý lẽ",
+        "cer": 0.09859154929577464
+    },
+    {
+        "index": 19,
+        "ground_truth": "của cánh thợ săn, nhưng thật ra với những người dân huyện đảo mà",
+        "prediction": "cuối cùng thị trấn, nhưng thật ra với những người chín huyền đạo mà",
+        "cer": 0.21875
+    },
+    {
+        "index": 20,
+        "ground_truth": "cuộc sống chưa lấy gì làm no đủ như ở xuân đám, việc \" kiếm chác \"",
+        "prediction": "cuộc sống chưa khí ợi gì làm nó đi như ở xuân đơn, việc ở kiệm chào",
+        "cer": 0.24242424242424243
+    },
+    {
+        "index": 21,
+        "ground_truth": "thêm mỗi ngày 60.000 - 70.000 đồng như ông lão h. cũng là",
+        "prediction": "thêm nội nguy cao. 000 - 70.000 đồng nhưng sống lạc ít cũng là",
+        "cer": 0.2631578947368421
+    },
+    {
+        "index": 22,
+        "ground_truth": "\" đỡ cơ cực \" lắm rồi. thợ săn k. (xã phù long) có thâm niên",
+        "prediction": "a độc cứu 9 lâm sát. thợ kán k. cxã phú long có thành niên",
+        "cer": 0.31666666666666665
+    },
+    {
+        "index": 23,
+        "ground_truth": "năm năm trong nghề săn chim cũng cho rằng mỗi dịp chim về",
+        "prediction": "năm năm trong nghề tài chính cũng cho rằng mọi dịp chính về",
+        "cer": 0.17543859649122806
+    },
+    {
+        "index": 24,
+        "ground_truth": "đảo (tháng 9, tháng 10) chính là cơ hội tốt để kiếm tiền.",
+        "prediction": "được c tháng 9, tháng 10 chính là cơ sở hỗ trợ để kiểm tiền.",
+        "cer": 0.24561403508771928
+    },
+    {
+        "index": 25,
+        "ground_truth": "với gần 1 triệu bỏ ra, k. sắm hẳn ba cheo lưới nhỏ chia cho hai",
+        "prediction": "với gần 1 triệu bộ xa, k. sâm hồn ba cheo lưới nhỏ chưa cho hai",
+        "cer": 0.07936507936507936
+    },
+    {
+        "index": 26,
+        "ground_truth": "đứa con cùng mình vác đi săn. hầu như ngày nào ba bố con anh k.",
+        "prediction": "điều con cũng mình vất đi sớm. hầu như ngày nào bà bố em anh k.",
+        "cer": 0.19047619047619047
+    },
+    {
+        "index": 27,
+        "ground_truth": "cũng bắt được khoảng 100 con, đem bán với giá rẻ nhà anh cũng kiếm",
+        "prediction": "cũng bắt được khoảng 100 con, đậm bản vừa gái rể nhà anh cũng kiếm",
+        "cer": 0.10606060606060606
+    },
+    {
+        "index": 28,
+        "ground_truth": "được 250.000 - 300.000 đồng. chỉ trong một tháng, nhà anh sắm",
+        "prediction": "được 250.000 - 300.000 đồng. chỉ trong một tháng, nhà anh sắm",
+        "cer": 0.0
+    },
+    {
+        "index": 29,
+        "ground_truth": "khá đủ tiện nghi sinh hoạt như : tivi, cassette... chỉ tính",
+        "prediction": "khá đủ tiền nghỉ kinh hoạt như : tivi, cơ sở... chủ tinh",
+        "cer": 0.1864406779661017
+    },
+    {
+        "index": 30,
+        "ground_truth": "đơn giản, 20 thợ săn với 20 cheo lưới, mỗi cheo lưới ngày bắt",
+        "prediction": "đón gần, 20 thợ kiến với 20 chợ kiến, mỗi chợ kiến ngày bắt",
+        "cer": 0.29508196721311475
+    },
+    {
+        "index": 31,
+        "ground_truth": "25 - 30 con thì mỗi ngày cũng có đến 500 - 600 chú chim trời",
+        "prediction": "25 - 30 con thị mộ ngày cũng có đến 500 - 600 chủ chìm trời",
+        "cer": 0.08333333333333333
+    },
+    {
+        "index": 32,
+        "ground_truth": "sa lưới và bị hóa kiếp.",
+        "prediction": "rà kiểu văn bản khoác.",
+        "cer": 0.7391304347826086
+    },
+    {
+        "index": 33,
+        "ground_truth": "và nếu cứ để tình trạng săn chim bừa bãi như thế này thì mai đây",
+        "prediction": "và nếu cái để tính trạng kín chìm bởi bà nhà thế này thì mới đây",
+        "cer": 0.1875
+    },
+    {
+        "index": 34,
+        "ground_truth": "liệu cát bà có còn chim về trú ngụ? hiện tình trạng săn chim",
+        "prediction": "kiều đạt bà có còn chìm về trời ngủ? thên tỉnh trang sẵn chìm",
+        "cer": 0.25
+    },
+    {
+        "index": 35,
+        "ground_truth": "di cư đã trở thành một vấn nạn trên đảo cát bà, thế nhưng hầu",
+        "prediction": "đi cứ đã trở thành một vấn nan trên đất bà, thế nhưng hiện",
+        "cer": 0.18032786885245902
+    },
+    {
+        "index": 36,
+        "ground_truth": "như chính quyền các xã đều không có động tĩnh gì. ông bùi",
+        "prediction": "nhà chính quyền các xã đều không có đóng tình gì. ông bùi",
+        "cer": 0.05263157894736842
+    },
+    {
+        "index": 37,
+        "ground_truth": "hồng việt, hạt kiểm lâm huyện cát hải, than phiền do biên chế",
+        "prediction": "hồng quát, hội kiệm lâm huyện cát hải, than phiên do bên chủ",
+        "cer": 0.14754098360655737
+    },
+    {
+        "index": 38,
+        "ground_truth": "của đơn vị chỉ có vài người, chia việc ra không đủ, đành phải",
+        "prediction": "của đón vợ chồ cô vua người, chưa việc ra không đủ, đánh phá",
+        "cer": 0.16393442622950818
+    },
+    {
+        "index": 39,
+        "ground_truth": "tổ chức tịch thu của những người bán rong trên đường hoặc",
+        "prediction": "tổ chức tích thu của những người bán ròng trên đường hoặc",
+        "cer": 0.03508771929824561
+    },
+    {
+        "index": 40,
+        "ground_truth": "ở chợ cát bà.",
+        "prediction": "tổ chức cát bà.",
+        "cer": 0.3076923076923077
+    },
+    {
+        "index": 41,
+        "ground_truth": "cũng chính vì quân số ít mà suốt từ đầu vụ, hạt kiểm lâm",
+        "prediction": "cũng chính vì quân số ít mà giới tư đấu vụ, thật kiếm làm",
+        "cer": 0.17857142857142858
+    },
+    {
+        "index": 42,
+        "ground_truth": "mới chỉ thu giữ được khoảng 800 con. số chim này sau khi",
+        "prediction": "mới chỉ thu gấp được khoảng 800 con. 86 chậm này sẽ kêu khi",
+        "cer": 0.16071428571428573
+    },
+    {
+        "index": 43,
+        "ground_truth": "thu giữ đã được thả về tự nhiên, nhưng chính những cán bộ",
+        "prediction": "thu gửi đã được thỏa vợt nhận, nhưng chính những cán bộ",
+        "cer": 0.15789473684210525
+    },
+    {
+        "index": 44,
+        "ground_truth": "hạt kiểm lâm cũng không biết ngày mai nó có bị sa lưới",
+        "prediction": "khát kiếm làm cùng không biết nguy mại nó có bị sa lấn",
+        "cer": 0.18518518518518517
+    },
+    {
+        "index": 45,
+        "ground_truth": "hay không?",
+        "prediction": "không?",
+        "cer": 0.4
+    },
+    {
+        "index": 46,
+        "ground_truth": "nhiều cuộc họp giữa đại diện hđnd tp.hcm và lãnh đạo ubnd tp để chỉ",
+        "prediction": "nhiều cuộc họp giữa đại diện hđnd tp.hcm và lãnh đạo ubnd tp đã \" chí \"",
+        "cer": 0.08955223880597014
+    },
+    {
+        "index": 47,
+        "ground_truth": "xoay quanh việc có nên cho phép thu phí cầu bình triệu 2 khi dự án còn",
+        "prediction": "xoay quanh việc có nên cho phép thu phí cầu bình triệu lê khi dự án còn",
+        "cer": 0.02857142857142857
+    },
+    {
+        "index": 48,
+        "ground_truth": "dở dang, manh mún? thậm chí, một phó chủ tịch hđnd tp đã có",
+        "prediction": "đó đang, manh mún? thân chủ, một phó chủ đích hđ nướt đã có",
+        "cer": 0.2033898305084746
+    },
+    {
+        "index": 49,
+        "ground_truth": "lúc cho rằng thu phí vào thời điểm chưa hoàn thành hợp đồng chẳng",
+        "prediction": "lúc cho rằng thu phí và thời điểm chưa hoàn thành hợp đồng chẳng",
+        "cer": 0.015384615384615385
+    },
+    {
+        "index": 50,
+        "ground_truth": "khác nào \" gặt lúa non \". thế nhưng với lập luận : nếu kéo dài thời gian không",
+        "prediction": "khác nào \" gạt lúa nón \". thế nhưng với lập hạng án \" nếu kéo dài thời gian khủng",
+        "cer": 0.1282051282051282
+    },
+    {
+        "index": 51,
+        "ground_truth": "thu phí sẽ làm tăng lãi vay - điều này không chỉ gây khó khăn cho chủ",
+        "prediction": "dự phí sẽ làm tăng lãi vay - điều này không chỉ gây hối hận cho chính",
+        "cer": 0.15942028985507245
+    },
+    {
+        "index": 52,
+        "ground_truth": "đầu tư mà cả người dân cũng chịu thiệt... và việc tổ chức thu phí cầu bình triệu 2",
+        "prediction": "đầu tư mà cả người dân cũng chịu thật... và vấp ít chắc thân phố của biệt trì ở 2",
+        "cer": 0.23170731707317074
+    },
+    {
+        "index": 53,
+        "ground_truth": "được hđnd tp thông qua, chính thức áp dụng vào 1 - 4 - 2004.",
+        "prediction": "tức thành tốp hồng quý, chính thức ấy lũy cầu 1 - 4 - 2004.",
+        "cer": 0.31666666666666665
+    },
+    {
+        "index": 54,
+        "ground_truth": "chủ đầu tư cienco 5 đang đứng trước bờ vực phá sản chợt tràn ngập",
+        "prediction": "chủ đầu tư cienco 5 đang dừng trước bờ vực phía sàn chấn tranh ngập",
+        "cer": 0.13846153846153847
+    },
+    {
+        "index": 55,
+        "ground_truth": "hi vọng thoát hiểm. đến trạm thu phí tạm vấn đề không dừng lại, cũng từ",
+        "prediction": "lý vòng thoát hiểm. đối tượng thủ phí - tạm vấn để không dừng lại, cũng rất",
+        "cer": 0.22535211267605634
+    },
+    {
+        "index": 56,
+        "ground_truth": "ý định \" cứu \" nhà đầu tư, các trạm thu phí được chóng vánh dựng lên cũng theo",
+        "prediction": "ý định \" cứ nha đâu thì, các tran thủ phí đủ để chứng vánh đúng lên cùng theo",
+        "cer": 0.23076923076923078
+    },
+    {
+        "index": 57,
+        "ground_truth": "kiểu \" gặt lúa non \". trong khi dự án đầu tư xây dựng cầu bình triệu 2 không hoàn",
+        "prediction": "kiến \" gặt hạn nạn \". trong khi đó án đầu tư xây dựng cải bình triệu 2 không hiện",
+        "cer": 0.14814814814814814
+    },
+    {
+        "index": 58,
+        "ground_truth": "thành các hạng mục công trình đúng như qui mô đã được phê duyệt, cho nên kế hoạch",
+        "prediction": "phình các hàng mục công trình như quy mô đã được phê duyệt, chọn ra kế hoạch",
+        "cer": 0.1728395061728395
+    },
+    {
+        "index": 59,
+        "ground_truth": "đặt trạm thu phí ban đầu ở giữa cầu đúc nhỏ và cầu ông dầu trên quốc lộ 13 không thể",
+        "prediction": "sét toàn thủ phí ở gửi đến đức nhân và ông đàin trên quốc lộ 15 không để",
+        "cer": 0.40476190476190477
+    },
+    {
+        "index": 60,
+        "ground_truth": "thực hiện được (đường chưa xây dựng).",
+        "prediction": "thực hiện được (trường chưa xây dựng)",
+        "cer": 0.08108108108108109
+    },
+    {
+        "index": 61,
+        "ground_truth": "vì vậy cienco 5 đã đề nghị đặt trạm thu phí tạm ngay chân cầu bình",
+        "prediction": "vì vậy cinca 5 đã đề nghị đặt đám hụ phí tạm ngày chân cầu bình",
+        "cer": 0.12121212121212122
+    },
+    {
+        "index": 62,
+        "ground_truth": "triệu 2 và xin được thu phí giao thông một chiều (thay vì thu phí giao thông hai",
+        "prediction": "\" tiêu 2 và xin được thư phí giáo thông một chiều (thay vì thư phí giáo thông hai",
+        "cer": 0.1
+    },
+    {
+        "index": 63,
+        "ground_truth": "chiều nếu hoàn thành dự án) đối với xe lưu thông hướng từ ga bình triệu",
+        "prediction": "chiều nếu hoàn thành dự án) để với xe lưu thông hướng từ ga bình triệu",
+        "cer": 0.028169014084507043
+    },
+    {
+        "index": 64,
+        "ground_truth": "vào trung tâm tp hcm. trong văn bản gửi ubnd tp.hcm, sở giao thông",
+        "prediction": "vào trung tâm tp hcm. trong văn bản gửi nước tp.hcm, số 6 của thương",
+        "cer": 0.18181818181818182
+    },
+    {
+        "index": 65,
+        "ground_truth": "công chánh tp.hcm đã đồng tình địa điểm đặt trạm thu phí tạm tại phía",
+        "prediction": "công chánh tp.hcm đã đứng tình địa điểm đất trạm thu phí \" đà mơ tại phía",
+        "cer": 0.11594202898550725
+    },
+    {
+        "index": 66,
+        "ground_truth": "bắc đầu cầu bình triệu 2 (phường hiệp bình chánh, quận thủ đức), trung",
+        "prediction": "lực đẩy cầu bình triệu 2 lộ đường hiep bình chánh, quận thủ đức, phụng",
+        "cer": 0.18571428571428572
+    },
+    {
+        "index": 67,
+        "ground_truth": "tâm trạm thu phí cách đầu cầu bình triệu mới là 71,85 m.",
+        "prediction": "tâm trạm thu phí cách đảo cầu bình triệu một lùi 71,85 m",
+        "cer": 0.125
+    },
+    {
+        "index": 68,
+        "ground_truth": "như vậy, việc đặt trạm thu phí giao thông tại chân cầu là giải pháp tình",
+        "prediction": "vĩnh vấn, việc đặt trạm thu phí giao thông trái chân cầu là giải pháp tính",
+        "cer": 0.1111111111111111
+    },
+    {
+        "index": 69,
+        "ground_truth": "thế và đột xuất, nhưng cienco 5 đã không đưa ra các phương án dự phòng",
+        "prediction": "thứ và đất xuất, nhưng cienco 5 đã không đưa ra các phương án điều phòng",
+        "cer": 0.08571428571428572
+    },
+    {
+        "index": 70,
+        "ground_truth": "các tình huống xấu nhất có thể xảy ra tại khu vực giao thông vốn rất",
+        "prediction": "các tỉnh hướng xã như có thể xảy ra tại các khu vực giao thông vốn rất",
+        "cer": 0.16176470588235295
+    },
+    {
+        "index": 71,
+        "ground_truth": "phức tạp. đặc biệt là tình huống kẹt xe ngay trên đường ray trong thời điểm",
+        "prediction": "mặc táp. đặc biệt là tỉnh hương kết xé ngay trở dừng rạy trong hồi tiếc",
+        "cer": 0.26666666666666666
+    },
+    {
+        "index": 72,
+        "ground_truth": "xe lửa đang qua khu vực này. trong khi đó, tại khu vực trạm thu phí do",
+        "prediction": "vụ khí đang qua khu vực này. trong khi đó, tại khu vực trạm phí đó",
+        "cer": 0.15714285714285714
+    },
+    {
+        "index": 73,
+        "ground_truth": "bị vướng giải tỏa một số hộ dân nên đường vào trạm bị uốn cong",
+        "prediction": "bị vướng giải tỏa một số hộ dân nên nên đường vào trạm bị nặng cộng",
+        "cer": 0.12903225806451613
+    },
+    {
+        "index": 74,
+        "ground_truth": "không thuận lợi cho các phương tiện vào trạm và nhất là không đủ sức",
+        "prediction": "không thận lợi cho các phòng tiền vào mua và nhặt là không đủ sức",
+        "cer": 0.1323529411764706
+    },
+    {
+        "index": 75,
+        "ground_truth": "chứa khi lượng xe cùng lúc dồn đến trạm.",
+        "prediction": "chống khí hướng xe cứng hề dồn đến trạm.",
+        "cer": 0.25
+    },
+    {
+        "index": 76,
+        "ground_truth": "và cũng do mặt bằng trạm thu phí không thể mở rộng thêm nên việc xây dựng bốn",
+        "prediction": "và cũng do mất bảng trạm thu phí không thể nổ ròng nên việc xây dựng bản",
+        "cer": 0.14285714285714285
+    },
+    {
+        "index": 77,
+        "ground_truth": "làn xe ôtô vào trạm rất chật hẹp; còn ở làn xe hai bánh cũng quá chật hẹp không",
+        "prediction": "lớn xẻ ở vào trạm rất chật hẹp; còn ở làn xe hai bánh cùng qua chật hẹp khắp",
+        "cer": 0.12658227848101267
+    },
+    {
+        "index": 78,
+        "ground_truth": "đáp ứng số lượng phương tiện xe lưu thông đi qua nhất là vào giờ cao điểm",
+        "prediction": "tập ứng sẽ không phường điều xe lưu thông đi qua nhà tò vào gào cáo điều",
+        "cer": 0.2602739726027397
+    },
+    {
+        "index": 79,
+        "ground_truth": "sáng, lúc mật độ lưu thông tăng cao từ hướng ngoại thành và các tỉnh qua cầu",
+        "prediction": "sống, lúc mất đó lưu thông tăng cao từ không người thành và các tỉnh giao các",
+        "cer": 0.17105263157894737
+    },
+    {
+        "index": 80,
+        "ground_truth": "bình triệu về trung tâm tp. trạm thu phí đặt tại chân cầu bình triệu cho",
+        "prediction": "bình triệu về trung tâm tp. trạm thu phí đất tài chào cầu bình triệu dự",
+        "cer": 0.09722222222222222
+    },
+    {
+        "index": 81,
+        "ground_truth": "thấy sau khi xe nộp phí sẽ khó thông thoát nhanh vì muốn qua trạm là xe",
+        "prediction": "thấy sau khi xe này phí sẽ khó thông thanh nhánh vì muốn qua đảm bảo xe",
+        "cer": 0.16901408450704225
+    },
+    {
+        "index": 82,
+        "ground_truth": "bắt đầu leo dốc lên cầu với tốc độ rất chậm.",
+        "prediction": "bất đảm kéo dọc lên cầu rút tới đó rất chậm.",
+        "cer": 0.2727272727272727
+    },
+    {
+        "index": 83,
+        "ground_truth": "như vậy, đây sẽ là điều bất ổn khi xe dồn ứ ở phía trước trạm thu phí và cho dù",
+        "prediction": "như ng, tăng sẽ là điều bất cứ khảo cồn ở phí trước tham thu phí và cho đi",
+        "cer": 0.26582278481012656
+    },
+    {
+        "index": 84,
+        "ground_truth": "thực hiện giải pháp xả cảng cũng khó thông thoát dòng xe, chưa kể đến tình huống",
+        "prediction": "thực hiện giải pháp xử cảng cũng khó thông thoát dòng xe, chưa kể đến tính hướng",
+        "cer": 0.05
+    },
+    {
+        "index": 85,
+        "ground_truth": "kẹt xe ngay trên đường ray xe lửa tại ngã tư bình lợi. ai sẽ chịu trách",
+        "prediction": "rất xe ngay trên đường này xe lửa tới ngã tư rồnh lũ. at sẽ chịu trách",
+        "cer": 0.14084507042253522
+    },
+    {
+        "index": 86,
+        "ground_truth": "nhiệm về trạm thu phí tạm bợ và không bảo đảm an toàn giao thông ở ngay cửa",
+        "prediction": "nhiệm vụ trạm thu phí tạm bợ và không bảo đảm an toàn giáo đường ở ngày cũ",
+        "cer": 0.10666666666666667
+    },
+    {
+        "index": 87,
+        "ground_truth": "ngõ tp.hcm? câu trả lời từ thực tế là : cần phải tháo dỡ trạm thu phí này,",
+        "prediction": "ngóp tp.hcm : căn trại lở thực tế là : cầu phải thỏa đốt trạm thu phí này",
+        "cer": 0.25675675675675674
+    },
+    {
+        "index": 88,
+        "ground_truth": "trả lại sự thông thoáng cho con đường và sự an toàn của người dân.",
+        "prediction": "trẻ lơi sợ thông thường cho con được và sử án toàn và người dân.",
+        "cer": 0.19696969696969696
+    },
+    {
+        "index": 89,
+        "ground_truth": "nhóm hiểm họa khó tránh! buổi sáng 25 - 3 - 2004 đúng vào thời điểm xe tải",
+        "prediction": "nhóm điều tra khoá tránh 1. bước sang 25 - 3 - 2004 tăng vào thời điểm xét",
+        "cer": 0.2702702702702703
+    },
+    {
+        "index": 90,
+        "ground_truth": "được phép lưu thông vào nội thành, hàng đoàn ôtô nối đuôi nhau chạy với tốc",
+        "prediction": "được phép lưu thông vào lời thành, hàng đoạn đòi nỗi được nhau vốn tín",
+        "cer": 0.25333333333333335
+    },
+    {
+        "index": 91,
+        "ground_truth": "độ tương đối chậm, do chưa thu phí nên các loại xe không dừng ở các trạm",
+        "prediction": "độ trường đại châm, do chưa thu phí nên các loại xe không dừng tại các trạm",
+        "cer": 0.09722222222222222
+    },
+    {
+        "index": 92,
+        "ground_truth": "bán vé đặt rải rác suốt tuyến đường. khi gần qua trạm kiểm soát với bốn làn lưu",
+        "prediction": "bán về đất rải nơi cuộc huyền thủng. lời gắm gia đơn kiểm soát với bốn lần lưu",
+        "cer": 0.3037974683544304
+    },
+    {
+        "index": 93,
+        "ground_truth": "thông ôtô và một làn lưu thông xe máy, hầu hết tài xế đều giảm tốc độ đột",
+        "prediction": "thông báo và một lần lưu thông xe máy, hầu hết tài xế đã giảm độc độc tốt",
+        "cer": 0.1506849315068493
+    },
+    {
+        "index": 94,
+        "ground_truth": "ngột vì khúc cua khá gắt.",
+        "prediction": "ngột vì khúc của khía gắt.",
+        "cer": 0.12
+    },
+    {
+        "index": 95,
+        "ground_truth": "khoảng cách từ khúc cua này đến trạm chỉ khoảng 40m, do vậy thường các tài xế",
+        "prediction": "khương cách từ khúc của nay đến trạm chí khương đơn, đó vậy những các tài sản",
+        "cer": 0.23376623376623376
+    },
+    {
+        "index": 96,
+        "ground_truth": "có tâm lý chạy thẳng vào làn kiểm soát đầu tiên hoặc thứ hai từ bên trái qua,",
+        "prediction": "có sớm hy chàng rồi lên kiến sổt đâu trên nước thì hai tôi bán trai quản",
+        "cer": 0.37662337662337664
+    },
+    {
+        "index": 97,
+        "ground_truth": "nếu đi vào làn kiểm soát thứ tư tài xế phải đánh vòng cua tay lái. đối với",
+        "prediction": "nếu đi vào làn biển cao hết tới và sẽ phải đánh vòng của tay lấy. đối với",
+        "cer": 0.24324324324324326
+    },
+    {
+        "index": 98,
+        "ground_truth": "các loại xe tải trọng cao và dài như xe chở container, đặc biệt là loại container",
+        "prediction": "có loại xe đạp trong cao và dài như xe chở container, đặt biệt là loại container",
+        "cer": 0.08641975308641975
+    },
+    {
+        "index": 99,
+        "ground_truth": "dài 40ft chẳng hạn thì hết sức nguy hiểm vì cua gắt nếu đi vào làn kiểm",
+        "prediction": "lại 40 tỉ chàng hàn thì hết sức nguy hiểm vì của giật nếu đi vào làn kiện",
+        "cer": 0.15492957746478872
+    },
+    {
+        "index": 100,
+        "ground_truth": "soát thứ tư. trở lại đoạn đường từ trước ga bình triệu đến ngã tư đường ray",
+        "prediction": "sạt thải đổ. trở lại đơn dương thì trước ga bình triều đến ngã tư đường này",
+        "cer": 0.2
+    },
+    {
+        "index": 101,
+        "ground_truth": "xe lửa và đoạn đến trạm kiểm soát, hàng ôtô vẫn tiếp tục nối đuôi và bị đứt",
+        "prediction": "xe lúa và đông đến trạm kiểm soát, hàng ô tô vẫn tiếp tục nối đuổi và bắtđể",
+        "cer": 0.13333333333333333
+    },
+    {
+        "index": 102,
+        "ground_truth": "quãng bởi ngã tư đèn xanh đèn đỏ có đường xe lửa băng ngang qua.",
+        "prediction": "quảng bá ngã tứ đến xanh đến đó có đường xe lửa băng ngang qua.",
+        "cer": 0.109375
+    },
+    {
+        "index": 103,
+        "ground_truth": "một bác tài xe ôm ngồi chờ khách ngay ngã tư nói : \" anh cứ nhìn vào các trạm",
+        "prediction": "ngữ bác tất xe ôm ngập chờ khách quay ngã thị mũ : \" anh cá nhân vào các trạm",
+        "cer": 0.2077922077922078
+    },
+    {
+        "index": 104,
+        "ground_truth": "bán vé thì biết, đoạn đường không đủ rộng để xe sau có thể vượt lên trạm phía trước",
+        "prediction": "kin vợ thì biết đơn đúng không đã nóng đã xe sao có thời viết lên tham phảo trước",
+        "cer": 0.25301204819277107
+    },
+    {
+        "index": 105,
+        "ground_truth": "để mua vé mà phải sắp hàng chờ xe trước mua xong mới đến lượt mình, nguy",
+        "prediction": "để mua vé mà phải sắp hàng thời xe thời mua xong một đôi lượt mình, nguy",
+        "cer": 0.1388888888888889
+    },
+    {
+        "index": 106,
+        "ground_truth": "cơ kẹt xe sẽ xảy ra ngay tại đây - chỗ đường xe lửa này chứ chưa nói đến khúc",
+        "prediction": "có kết xe sẽ rủy và nên tới đây - chỗ đư ờng xe lửa này chứ chưa nói đến khác",
+        "cer": 0.15584415584415584
+    },
+    {
+        "index": 107,
+        "ground_truth": "cua \" nghiệt ngã \" và trạm kiểm soát đặt ngay chân cầu... \". quả thật nếu như",
+        "prediction": "có \" người ngờ \" rủi trộm kiếm sạch đất ngay chốn cầu... \" quá tắt nếu như",
+        "cer": 0.2727272727272727
+    },
+    {
+        "index": 108,
+        "ground_truth": "đang có ùn tắc giao thông trên ngã tư này mà xe lửa cứ lù lù tiến tới thì",
+        "prediction": "tăng có ưu đãi giao thông trên ngã tụ này mà xe lửa cứ lui lộ tiền đòi thú",
+        "cer": 0.2054794520547945
+    },
+    {
+        "index": 109,
+        "ground_truth": "không biết hậu quả sẽ ra sao?",
+        "prediction": "không biết hãy quý vị mà sao?",
+        "cer": 0.2413793103448276
+    },
+    {
+        "index": 110,
+        "ground_truth": "bản chất của thành công",
+        "prediction": "bạm chất của thành công",
+        "cer": 0.08695652173913043
+    },
+    {
+        "index": 111,
+        "ground_truth": "đã bao giờ bạn tự hỏi thành công là gì mà bao kẻ bỏ cả cuộc đời",
+        "prediction": "đã bao giờ bạn đã hồi thành công là gì mà bao kể bỏ cả cuộc đời",
+        "cer": 0.06349206349206349
+    },
+    {
+        "index": 112,
+        "ground_truth": "mình theo đuổi? phải chăng đó là kết quả hoàn hảo trong công việc,",
+        "prediction": "mình theo đuổi? phải chăng đó là kết quả hoàn hảo trong công việc,",
+        "cer": 0.0
+    },
+    {
+        "index": 113,
+        "ground_truth": "sự chính xác đến từng chi tiết? hay đó là cách nói khác của từ thành",
+        "prediction": "sự chính xác đến tiếng chí tiếng đã là cách nói khác của từ thành",
+        "cer": 0.14705882352941177
+    },
+    {
+        "index": 114,
+        "ground_truth": "đạt, nghĩa là có được một cuộc sống giàu sang, được mọi người nể phục?",
+        "prediction": "đặt, nghĩa là có được một cuộc sống giàu lòng, được mọi người nỗ lực?",
+        "cer": 0.1
+    },
+    {
+        "index": 115,
+        "ground_truth": "vậy thì bạn hãy dành chút thời gian để lặng mình suy ngẫm.",
+        "prediction": "vậy thì bạn hãy dưới chút thời gian để lòng mình truy ngâm.",
+        "cer": 0.1206896551724138
+    },
+    {
+        "index": 116,
+        "ground_truth": "cuộc sống sẽ chỉ cho bạn có những người đạt được thành công theo một",
+        "prediction": "cuộc nông về chi cho bàn có những người đạt được thành công theo một",
+        "cer": 0.08823529411764706
+    },
+    {
+        "index": 117,
+        "ground_truth": "cách giản dị đến bất ngờ.",
+        "prediction": "cách giản dị đến bất ngờ.",
+        "cer": 0.0
+    },
+    {
+        "index": 118,
+        "ground_truth": "thành công là khi bố và con trai có dũng khí bước vào bếp, nấu những món",
+        "prediction": "thành công là khi bố và con trai có dựng khi biết vào bếp, nấu những món",
+        "cer": 0.06944444444444445
+    },
+    {
+        "index": 119,
+        "ground_truth": "ăn mẹ thích nhân ngày 8 - 3. món canh có thể hơi mặn, món cá sốt đáng lẽ",
+        "prediction": "án mẹ, thích nhân ngày 8 - 3. món canh có thể hơi mặn, món cá sốt đáng lẽ",
+        "cer": 0.027777777777777776
+    },
+    {
+        "index": 120,
+        "ground_truth": "phải có màu đỏ sậm thì lại ngả sang màu... đen cháy. nhưng nhìn mâm",
+        "prediction": "phải có màu đỏ sậm thì lại ngả rạng màu... đen cháy. thương nhìn mâm",
+        "cer": 0.05970149253731343
+    },
+    {
+        "index": 121,
+        "ground_truth": "cơm, mẹ vẫn cười. bởi vì hai bố con không thể thành công trên \" chiến trường \"",
+        "prediction": "căm, mẹ vẫn cười, bỗi vì hai bó con không thể thành công trên \" chiến thắng \",",
+        "cer": 0.10256410256410256
+    },
+    {
+        "index": 122,
+        "ground_truth": "bếp núc, nhưng lại thành công khi tặng mẹ \" đoá hồng \" của tình yêu. một",
+        "prediction": "đẹp mặc, những lời thành công khi đứng me \" đưa hàng \" của tỉnh yêu. một",
+        "cer": 0.18055555555555555
+    },
+    {
+        "index": 123,
+        "ground_truth": "món quà ý nghĩa hơn cả những món quà quý giá, hạnh phúc ấy long lanh",
+        "prediction": "món quái ý nghĩa hơn cả những món quà quý giá, hành phúc ấy lòng lãnh",
+        "cer": 0.07352941176470588
+    },
+    {
+        "index": 124,
+        "ground_truth": "in trong mắt mẹ.",
+        "prediction": "in trong mắt mẹ.",
+        "cer": 0.0
+    },
+    {
+        "index": 125,
+        "ground_truth": "thành công còn là hình ảnh một cậu bé bị dị tật ở chân, không bao giờ đi lại",
+        "prediction": "thành công còn là hình ảnh một cậu bé bị đi đất ở chân, không bao giờ đi lại",
+        "cer": 0.05263157894736842
+    },
+    {
+        "index": 126,
+        "ground_truth": "bình thường được. từ nhỏ cậu đã nuôi ước mơ trở thành cầu thủ bóng đá. sau",
+        "prediction": "bình thường được. từ nhỏ cậu đã nuôi việc mẹ từ sự thành cầu thủ bóng đá. sau",
+        "cer": 0.10810810810810811
+    },
+    {
+        "index": 127,
+        "ground_truth": "bao nỗ lực khổ luyện, cậu bé trở thành cầu thủ dự bị trong một đội bóng",
+        "prediction": "bao nổ lực khổ luyện, cậu bé bị thành cậu thú dự bị trong một đời bóng",
+        "cer": 0.09859154929577464
+    },
+    {
+        "index": 128,
+        "ground_truth": "nhỏ, và chưa bao giờ được chính thức ra sân. nhưng đó không phải là thất",
+        "prediction": "nhỏ, và chưa bao giờ được chính thức ra sàn. nhưng đó không phải là thiết",
+        "cer": 0.041666666666666664
+    },
+    {
+        "index": 129,
+        "ground_truth": "bại. trái lại, thành công đã nở hoa khi cậu bé năm xưa, với bao nghị",
+        "prediction": "bài. trái lại, thành công đã nở hoa khi cậu bé nam của, với bao nghị",
+        "cer": 0.058823529411764705
+    },
+    {
+        "index": 130,
+        "ground_truth": "lực và quyết tâm, đã chiến thắng hoàn cảnh để theo đuổi ước mơ từ",
+        "prediction": "lúc và quyết tâm, đã chiến thắng hoàn cảnh để theo dấu tốc mở thế",
+        "cer": 0.15384615384615385
+    },
+    {
+        "index": 131,
+        "ground_truth": "ngày thơ bé",
+        "prediction": "ngày thứ bảy.",
+        "cer": 0.36363636363636365
+    },
+    {
+        "index": 132,
+        "ground_truth": "thành công ấy, liệu có mấy người đạt được?",
+        "prediction": "thành công ấy, liệu có mấy người đất đất?",
+        "cer": 0.09523809523809523
+    },
+    {
+        "index": 133,
+        "ground_truth": "sau mỗi mùa thi đại học, có bao \" sĩ tử \" buồn rầu khi biết mình trở thành",
+        "prediction": "sau mỗi mùa khi đại học, có bao \" sĩ sĩ \" buồn rầu khi biết mình sẽ thành",
+        "cer": 0.08108108108108109
+    },
+    {
+        "index": 134,
+        "ground_truth": "\" tử sĩ \". hai bảy điểm, cao thật đấy. nhưng cao mà làm gì khi nv1 lấy",
+        "prediction": "\" đẻ rồi \". hai hộ dặm, cao nhất đấy. nhưng cao mà làm gì khi nv1 lấy",
+        "cer": 0.18571428571428572
+    },
+    {
+        "index": 135,
+        "ground_truth": "tới hai bảy phẩy năm? đó thật ra không phải là thất bại, chỉ là khi",
+        "prediction": "đến hai bảy phẩy năm? đó thật ra không phải là thất bại, chỉ là khi",
+        "cer": 0.04477611940298507
+    },
+    {
+        "index": 136,
+        "ground_truth": "thành công - bị - trì - hoãn mà thôi. cuộc sống vẫn chào đón họ với nv2, nv3.",
+        "prediction": "thành công - tư - tư hoàn mà thôi. cuộc sống vẫn chào đón họ với nv2, nv3.",
+        "cer": 0.09090909090909091
+    },
+    {
+        "index": 137,
+        "ground_truth": "quan trọng là họ đã nỗ lực hết sức để khẳng định mình. đó là ý nghĩa",
+        "prediction": "quan trọng là họ đã nỗ lực để trở thành đại biểu đẳng minh. đó là ý nghĩa",
+        "cer": 0.29411764705882354
+    },
+    {
+        "index": 138,
+        "ground_truth": "vẹn nguyên của các kỳ thi, và cũng là bản chất của thành công.",
+        "prediction": "về nguyện của các kỳ thi, và cũng là bốn chút của thành công.",
+        "cer": 0.08064516129032258
+    },
+    {
+        "index": 139,
+        "ground_truth": "ngày thứ ba phúc thẩm vụ án lã thị kim oanh : bộ trưởng ra tòa làm nhân chứng.",
+        "prediction": "người thợ ba phúc thẩm vụ án lã thị kim oanh : bộ trưởng ra toàn lâm nhân chúng,",
+        "cer": 0.1282051282051282
+    },
+    {
+        "index": 140,
+        "ground_truth": "chiều 24 - 3, bộ trưởng bộ nông nghiệp và phát triển nông thôn (nn & ptnt) lê huy",
+        "prediction": "chiều 24 - 8, bộ trưởng bộ nông nghiệp và phát triển nông thôn (nn&ptnt) lê huy",
+        "cer": 0.037037037037037035
+    },
+    {
+        "index": 141,
+        "ground_truth": "ngọ đã xuất hiện tại trụ sở tòa án nhân dân tối cao để làm chứng trong phiên",
+        "prediction": "ngọ đã xất hiện tại từ cổ tòa án nhân dân tối cao để làm chứng thống phiên",
+        "cer": 0.09210526315789473
+    },
+    {
+        "index": 142,
+        "ground_truth": "phúc thẩm xét xử bị cáo lã thị kim oanh và đồng phạm. \" tháp tùng \" bộ",
+        "prediction": "phúc thẩm xét xử bị cáo là thị kim oanh và đóng phạm. \" tháp tùng \" bị",
+        "cer": 0.04285714285714286
+    },
+    {
+        "index": 143,
+        "ground_truth": "trưởng ngọ là một số cán bộ cấp vụ của bộ nn & ptnt, cũng là nhân chứng",
+        "prediction": "thường. ngoài ra một số cán bộ cấp vụ của bộ nn & ptnt, cũng là nhân chính",
+        "cer": 0.14084507042253522
+    },
+    {
+        "index": 144,
+        "ground_truth": "của vụ án. vị nhân chứng đặc biệt này vội vã lên cầu thang và đi vào",
+        "prediction": "của vụ án. vì nhân chứng đặc biệt này với vợ lên cậu thang và đi vào",
+        "cer": 0.058823529411764705
+    },
+    {
+        "index": 145,
+        "ground_truth": "bên trong phòng xử rất nhanh để tránh ống kính máy ảnh của các phóng",
+        "prediction": "bên trong phòng xử rất nhanh để thành công kinh mấy cũng của các phòng",
+        "cer": 0.14705882352941177
+    },
+    {
+        "index": 146,
+        "ground_truth": "viên.",
+        "prediction": "vườm.",
+        "cer": 0.6
+    },
+    {
+        "index": 147,
+        "ground_truth": "muốn biết đúng hay sai, tòa phải nhờ... hội đồng thẩm định hội đồng xét xử (hđxx)",
+        "prediction": "muốn biết đừng hay sai, trả phí nhỏ... hơi đông thảm đùi hơi đông xét xử (hđxx)",
+        "cer": 0.1728395061728395
+    },
+    {
+        "index": 148,
+        "ground_truth": "hỏi bị cáo nguyễn quang hà (nguyên thứ trưởng bộ nn & ptnt) : \" muốn đối",
+        "prediction": "thôi bị cáo nguyễn quang hà (nguyễn thị bình) bộ nn & ptnt : \" muốn đổ",
+        "cer": 0.18055555555555555
+    },
+    {
+        "index": 149,
+        "ground_truth": "chất với bộ trưởng lê huy ngọ về những vấn đề gì? \". \" tôi muốn anh ngọ",
+        "prediction": "chất vô biểu tượng là huy ngọ, vợ những vấn đề gì? \". \" tôi muốn anh ngọ",
+        "cer": 0.14084507042253522
+    },
+    {
+        "index": 150,
+        "ground_truth": "đánh giá về công việc và trách nhiệm của tôi ở bộ nn & ptnt, cũng như",
+        "prediction": "đánh giá về công việc và khách nhóm của đối bộ nn & ptnt, cũng như",
+        "cer": 0.11594202898550725
+    },
+    {
+        "index": 151,
+        "ground_truth": "trong sự việc này \", bị cáo hà trình bày. nhân chứng lê huy ngọ xác nhận :",
+        "prediction": "tương sự việc này, bị cáo hà trinh bảy. nhân chúng để huy ngọ xác nhận.",
+        "cer": 0.14864864864864866
+    },
+    {
+        "index": 152,
+        "ground_truth": "\" anh hà là người làm việc có trách nhiệm \", nhưng cụ thể trong sự việc này",
+        "prediction": "\" anh hà là người làm việc có bách nhiệm, nhưng cụ thể trong sự việc này",
+        "cer": 0.05333333333333334
+    },
+    {
+        "index": 153,
+        "ground_truth": "(vụ lã thị kim oanh) thì \" thời gian 5 - 6 năm rồi, với khối lượng công việc của",
+        "prediction": "(vụ lã thị kim) thì \" thời gian 5 - 6 năm xới, với khối lượng công việc của",
+        "cer": 0.0875
+    },
+    {
+        "index": 154,
+        "ground_truth": "bộ trưởng, tôi không thể nào nhớ hết được \".",
+        "prediction": "bỏ đường, từ không thể nào nhỏ hết được \".",
+        "cer": 0.1590909090909091
+    },
+    {
+        "index": 155,
+        "ground_truth": "\" ông nhận thức như thế nào về công văn 327 của chính phủ \", đại diện viện",
+        "prediction": "\" ông nhân thức như thế mào về công văn 927 của chinh phủ \", đại diện viện",
+        "cer": 0.05405405405405406
+    },
+    {
+        "index": 156,
+        "ground_truth": "kiểm sát đặt câu hỏi cho nhân chứng - bộ trưởng lê huy ngọ. ông ngọ giải",
+        "prediction": "kiểm sát đất cầu hò cho nhân chứng - bộ trưởng dự huy ngo, ông ngo quán",
+        "cer": 0.18055555555555555
+    },
+    {
+        "index": 157,
+        "ground_truth": "trình : đây là sự trả lời của chính phủ, trong đó chủ trương đồng ý cho",
+        "prediction": "trình : đây là sự trả lời của quách phí, trong đó chỉ trường đông ý cho",
+        "cer": 0.11267605633802817
+    },
+    {
+        "index": 158,
+        "ground_truth": "tăng vốn trong 6 tháng đầu năm 1998 để công ty tiếp thị có thể hoàn",
+        "prediction": "đang vốn trong 6 tháng đầu năm 1998 để công ty tổp thị có thể học",
+        "cer": 0.1044776119402985
+    },
+    {
+        "index": 159,
+        "ground_truth": "thành nhiệm vụ. đó vừa là một quyết định \" đúng thẩm quyền \", vừa là",
+        "prediction": "thành nhiệm vụ. đó vừa là một quyết định \" đúng thẩm quyền \", vừa là",
+        "cer": 0.0
+    },
+    {
+        "index": 160,
+        "ground_truth": "chủ trương \" tháo gỡ khó khăn của công trình nhóm a \".",
+        "prediction": "chủ trương \" thảo gỗ nhà khán của công trình nhóm a \",",
+        "cer": 0.1111111111111111
+    },
+    {
+        "index": 161,
+        "ground_truth": "công văn 327 có ghi đồng ý như đề nghị của bộ khđt cho phép công ty tiếp thị",
+        "prediction": "công viên 327 có ghi đóng vệ sinh tài nghị quá bộ khxh cho phép công ty tạp chí",
+        "cer": 0.2631578947368421
+    },
+    {
+        "index": 162,
+        "ground_truth": "vay vốn tín dụng theo kế hoạch nhà nước năm 1998. \" ông hiểu vốn tín",
+        "prediction": "vay vốn tìm dụng theo kỷ lục nhà nước năm 1998. \" ông hiện với tín",
+        "cer": 0.16176470588235295
+    },
+    {
+        "index": 163,
+        "ground_truth": "dụng ở đây là vốn... gì? \", đại diện viện kiểm sát hỏi tiếp ông ngọ. \" là",
+        "prediction": "dụng ở đây là vốn... gì?\", đã đến viện kiểm sát hội tiếp cộng ngô. \" là",
+        "cer": 0.136986301369863
+    },
+    {
+        "index": 164,
+        "ground_truth": "vốn tín dụng ưu đãi theo kế hoạch của chính phủ... \", ông bộ trưởng trả",
+        "prediction": "vốn tín dụng sự đã theo kẻ khoác của chính phủ... \" ông bị buông biển",
+        "cer": 0.23943661971830985
+    },
+    {
+        "index": 165,
+        "ground_truth": "lời. vẫn viện kiểm sát : \" bộ có chủ trương cho thứ trưởng ký xác nhận",
+        "prediction": "lớt. văn viện kiểm soát : \" bộ có chủ trương cho thủ trưởng ký xác nhận",
+        "cer": 0.07142857142857142
+    },
+    {
+        "index": 166,
+        "ground_truth": "vào công văn công ty tiếp thị không? \" \" bộ không có chủ trương này \",",
+        "prediction": "vào công văn công ty tiếp thị không? \" \" bộ không có chủ trương này \",",
+        "cer": 0.0
+    },
+    {
+        "index": 167,
+        "ground_truth": "bộ trưởng bộ nn & ptnt khẳng định, mà chỉ là đề nghị của dn và",
+        "prediction": "bộ trưởng bộ nn & ptnt khẳng định, mà chủ là đã nghị cửa dn và",
+        "cer": 0.04838709677419355
+    },
+    {
+        "index": 168,
+        "ground_truth": "nếu xem xét \" thấy đúng thì giao người phụ trách lĩnh vực ký \".",
+        "prediction": "nếu xem xét \" thấy đúng thì giao người phụ trách lĩnh vực kỹ \"",
+        "cer": 0.031746031746031744
+    },
+    {
+        "index": 169,
+        "ground_truth": "như vậy, \" việc xác nhận của thứ trưởng hà có cần thiết không? (ông hà ký xác",
+        "prediction": "như vậy, \" việc nếu nhân của thị trường hà cơ cấn thiết không? công hà ký xác",
+        "cer": 0.11688311688311688
+    },
+    {
+        "index": 170,
+        "ground_truth": "nhận 6 văn bản dưới thời bộ trưởng tạn pv) \", luật gia trần đình triển",
+        "prediction": "nhân 6 văn bản được thỏa thuận tân pvn, luật gia trần đình triệu",
+        "cer": 0.2714285714285714
+    },
+    {
+        "index": 171,
+        "ground_truth": "(bào chữa cho bị cáo nguyễn quang hà) \" xoay \" nhân chứng lê huy ngọ.",
+        "prediction": "(báo chứa cho lời cáo nguyễn quang hà) \" nói vẫn chúng lê huy ngọ.",
+        "cer": 0.21739130434782608
+    },
+    {
+        "index": 172,
+        "ground_truth": "ông ngọ lúng túng : \" cái này đề nghị hđxx cho thẩm định ở một hội",
+        "prediction": "ông ngô lương trọng : \" cái này đã nghị thợ xx cho thẩm định ở một hội",
+        "cer": 0.13636363636363635
+    },
+    {
+        "index": 173,
+        "ground_truth": "đồng chuyên môn hoặc một cơ quan có trách nhiệm như ngân hàng... \".",
+        "prediction": "đồng chuyên môn hoặc một cơ quan có trách nhiệm như ngân hàng... \".",
+        "cer": 0.0
+    },
+    {
+        "index": 174,
+        "ground_truth": "ông giải thích thêm : khi ba bộ nông nghiệp, lâm nghiệp, thủy lợi sáp",
+        "prediction": "ông gái thích thơm : khi ba bé nông nghiệp, làm nghèo, thủy lợi sáp",
+        "cer": 0.11594202898550725
+    },
+    {
+        "index": 175,
+        "ground_truth": "nhập thành một, bộ có tới 18 tổng công ty với gần 400 dn, việc thực hiện",
+        "prediction": "khép thành nổ, bộ cơ bộ 18 tổng công ty với giãn 4000 dn, ước thực hiện",
+        "cer": 0.20833333333333334
+    },
+    {
+        "index": 176,
+        "ground_truth": "chế độ báo cáo, kiểm tra, quyết toán... bị buông lỏng.",
+        "prediction": "chế độ bảo cáo, kiểm tra, quyết toán... bị buông lỏng.",
+        "cer": 0.018518518518518517
+    },
+    {
+        "index": 177,
+        "ground_truth": "\" mong hđxx xem xét hoàn cảnh của các đồng nghiệp của tôi lúc đó \", bộ trưởng",
+        "prediction": "\" mong thợ xem xét hoàn cảnh của các đảng nghiệp của tôi lúc đó \", bố truyền",
+        "cer": 0.12987012987012986
+    },
+    {
+        "index": 178,
+        "ground_truth": "ngọ nói với hđxx nhưng dường như cũng có ý \" chia sẻ \" với hai cấp dưới của",
+        "prediction": "ngộ nội việc hđxx những đường như cũng có ý \" chưa sẽ nói hai cặp dưới cửa",
+        "cer": 0.2
+    },
+    {
+        "index": 179,
+        "ground_truth": "mình trên hàng ghế bị cáo. bị cáo nguyễn thiện luân (nguyên thứ",
+        "prediction": "mình trên hàng ghế bị cáo. bị cáo nguyễn thiện luân cường thu",
+        "cer": 0.12698412698412698
+    },
+    {
+        "index": 180,
+        "ground_truth": "trưởng bộ nn & ptnt) cho biết \" không cần thiết \" đối chất với \" cấp",
+        "prediction": "thường bộ nnx ptnt) cho bắt \" không cần thiết \" đối chặt với cấp",
+        "cer": 0.1323529411764706
+    },
+    {
+        "index": 181,
+        "ground_truth": "trên \" của mình. trước khi kết thúc, bộ trưởng lê huy ngọ \" tranh thủ \"",
+        "prediction": "phèn của mình. trước khi kết thúc, bộ trưởng lê huy ngọ \" trạnh thứ \"",
+        "cer": 0.09859154929577464
+    },
+    {
+        "index": 182,
+        "ground_truth": "xin hđxx cho \" phát biểu vài lời \", cho hay ông về bộ tháng 10 - 1997,",
+        "prediction": "xin hđxx cho \" phát biểu và lời \", cho hay ông về bị thông 10 - 1997.",
+        "cer": 0.05714285714285714
+    },
+    {
+        "index": 183,
+        "ground_truth": "khi dự án khu triển lãm nông nghiệp đã triển khai được 2 - 3 năm.",
+        "prediction": "khi dự án khu triển lãm nâng nghiệp đạt được khai được 2 - 3 năm.",
+        "cer": 0.12307692307692308
+    },
+    {
+        "index": 184,
+        "ground_truth": "\" tôi không được bàn giao từ bộ trưởng cũ, những cái bộ trưởng cũ đã",
+        "prediction": "\" tôi không được bàn giao từ bộ trưởng cơ, nhưng các bộ trưởng cơ đã",
+        "cer": 0.058823529411764705
+    },
+    {
+        "index": 185,
+        "ground_truth": "quyết định thì anh em cứ tiếp tục làm, có gì phát sinh mới hỏi ý",
+        "prediction": "quyết định thì anh em cũ tiếp tục làm, có gì phát sinh mới hết ý",
+        "cer": 0.046875
+    },
+    {
+        "index": 186,
+        "ground_truth": "kiến tôi... \".",
+        "prediction": "kiến hội... \".",
+        "cer": 0.14285714285714285
+    },
+    {
+        "index": 187,
+        "ground_truth": "thế nhưng, những người đã bỏ công đi tìm không buồn, cũng không vứt trở lại đống phế liệu.",
+        "prediction": "thế nhưng, những người đã bỏ công đi tìm không buồn, cũng không vất tỏ lộ lãng mê lâu.",
+        "cer": 0.13333333333333333
+    },
+    {
+        "index": 188,
+        "ground_truth": "họ vẫn lau sạch từng vết bẩn, vẫn lưu giữ cẩn thận. \" có thể những người này đã làm được",
+        "prediction": "họ vẫn lau cách về bản, vẫn lưu giữ cẩn thận. \" có thể những người này đã làm được",
+        "cer": 0.11363636363636363
+    },
+    {
+        "index": 189,
+        "ground_truth": "giấy tờ khác, nhưng biết đâu một ngày nào đó họ lại muốn lấy lại chúng như một kỷ niệm.",
+        "prediction": "giấy tờ khác, nhưng biết đâu một ngày nào đó họ lại muốn lấy lại chúng mình một kỳ niệm.",
+        "cer": 0.04597701149425287
+    },
+    {
+        "index": 190,
+        "ground_truth": "dẫu sao cũng là vật thiết thân một thời, không hữu ích thì ít nhất cũng mang lại",
+        "prediction": "dấu sao cũng là vật thiết thân mắt thân, không hiệu ích thì ít nhất cũng mang lại",
+        "cer": 0.075
+    },
+    {
+        "index": 191,
+        "ground_truth": "một nụ cười khi thấy lại... \". lãi ròng là những niềm vui.",
+        "prediction": "một nu cũi khi thấy lại... \". lại lặng là những niềm vui.",
+        "cer": 0.10344827586206896
+    },
+    {
+        "index": 192,
+        "ground_truth": "\" làm việc này tuy âm thầm nhưng vui, rất vui, chẳng có gì để buồn. việc tốt mà... \",",
+        "prediction": "\" làm với nảy tay ăn thảm nhưng rủi, rất rủi, chẳng có gì để buồn. việc tới ma... \",",
+        "cer": 0.17647058823529413
+    },
+    {
+        "index": 193,
+        "ground_truth": "các nhân viên của khai minh nói như vậy. phi cho biết khi làm dự án về dịch vụ báo mất",
+        "prediction": "các nhân viên của khái minh nói như cậy. phí cho biết khi cần có dịch vụ bảo mật",
+        "cer": 0.1744186046511628
+    },
+    {
+        "index": 194,
+        "ground_truth": ", anh đã thực hiện một cuộc thăm dò về nhu cầu của người dân tp.hcm. hầu như",
+        "prediction": "> anh đó thực hiện một cuộc thăm dò về nhu cầu của người dân tp. hcm. hai nhà",
+        "cer": 0.07894736842105263
+    },
+    {
+        "index": 195,
+        "ground_truth": "100% số người được hỏi đều cho biết hoàn toàn tán thành và sẵn sàng hợp tác",
+        "prediction": "100% số người được hỏi đều cho biết hoàn toàn tài trợ, thành vợ sắn, hộp tôi",
+        "cer": 0.22666666666666666
+    },
+    {
+        "index": 196,
+        "ground_truth": "nếu dịch vụ ra đời. nhặt và trả đã đủ để vui. dịch vụ của họ chính là",
+        "prediction": "nếu dịch vụ ra đời. nhớ và từ đó từ từ rơi. dịch vụ cứ họ chính là",
+        "cer": 0.18840579710144928
+    },
+    {
+        "index": 197,
+        "ground_truth": "khâu trung gian đảm bảo cho những niềm vui ấy được trọn vẹn.",
+        "prediction": "khí áu trung gian đảm bảo cho những niềm vui ấy được tôn vẹn.",
+        "cer": 0.08333333333333333
+    },
+    {
+        "index": 198,
+        "ground_truth": "hiện ở công ty khai minh mới chỉ có sáu nhân viên làm nhiệm vụ tìm kiếm, nhưng",
+        "prediction": "hiện ở công ty khai hình mới chỉ có sau nhân viên làm nhiệm vụ tìm kiếm, nhưng",
+        "cer": 0.038461538461538464
+    },
+    {
+        "index": 199,
+        "ground_truth": "con số những người làm cộng tác viên cho họ đã nhân ra tới hàng trăm. những",
+        "prediction": "cơ sở những người làm công tác viên cho họ đã nhận ra từ hàng trăm. những",
+        "cer": 0.09333333333333334
+    },
+    {
+        "index": 200,
+        "ground_truth": "bao bì đựng giấy tờ đủ loại thu lượm được ngày càng đầy lên trong các ngăn kéo.",
+        "prediction": "bao bị đứng giấy tờ dự loại thu lương ngày cộng đầy lên trong các ngân kéo.",
+        "cer": 0.16455696202531644
+    },
+    {
+        "index": 201,
+        "ground_truth": "chỉ thu phí khi \" châu về hợp phố \" nên đã hoạt động hơn một năm nhưng họ vẫn",
+        "prediction": "chỉ thu phí khí \" châu võ hợp phí \" nên đã hoạt động hơn mỗi năm nhưng họ vẫn",
+        "cer": 0.06493506493506493
+    },
+    {
+        "index": 202,
+        "ground_truth": "chưa có lãi. bên cạnh đó, còn rất nhiều khách hàng chưa được đáp ứng",
+        "prediction": "chưa có lời. bên cạnh đó, còn một nhiều thành hạng chưa được tập ứng",
+        "cer": 0.1323529411764706
+    },
+    {
+        "index": 203,
+        "ground_truth": "nhu cầu.",
+        "prediction": "như cầu.",
+        "cer": 0.125
+    },
+    {
+        "index": 204,
+        "ground_truth": "có khi điện thoại reo vào lúc nửa đêm : \" tôi vừa bị mất giấy tờ ở đoạn đường...",
+        "prediction": "có khi đến khai xe vào cuci nấu đậm : \" tới rửa bị mất gảy tối ở đơn đương...",
+        "cer": 0.2875
+    },
+    {
+        "index": 205,
+        "ground_truth": "nhờ tìm giúp \". phi bảo ở thời điểm này thì khai minh chưa đủ nhân lực để",
+        "prediction": "nhà tìm giúp \". phí bảo ô thời điểm này thì khai hình chưa đủ nhanh lúc để",
+        "cer": 0.1095890410958904
+    },
+    {
+        "index": 206,
+        "ground_truth": "đảm nhiệm những nhiệm vụ tại chỗ như vậy, nhưng rồi... sẽ nghiên cứu. các",
+        "prediction": "đảm nhiệm những nhiệm vụ tại chỗ như vậy, những gì... sẽ nghịu cảu. các",
+        "cer": 0.1095890410958904
+    },
+    {
+        "index": 207,
+        "ground_truth": "ông chủ trẻ của dịch vụ báo mất vẫn yên tâm tính hướng phát triển, họ là",
+        "prediction": "ông chủ trẻ của dịch vụ bảo mật vận yên râm thành phố điện, họ là",
+        "cer": 0.2222222222222222
+    },
+    {
+        "index": 208,
+        "ground_truth": "những người tiên phong mà. lãi ròng từ ý tưởng của họ được tính bằng",
+        "prediction": "những người hận phong mà. lời rằng hãy tăng ước hoa đời rình bằng",
+        "cer": 0.3088235294117647
+    },
+    {
+        "index": 209,
+        "ground_truth": "những niềm vui, và tính như vậy thì công ty đã giàu.",
+        "prediction": "những niềm vui, vợ hình như cấy lì công ty đã giải.",
+        "cer": 0.17307692307692307
+    },
+    {
+        "index": 210,
+        "ground_truth": "mỗi tờ giấy chẳng sẽ mang lại ít nhất hai nụ cười của người bị mất và người nhặt được",
+        "prediction": "mỗi hộ giấy chẳng sẽ mang lại ít nhất hai nụ cười của người bị mất và người nhất được",
+        "cer": 0.03529411764705882
+    },
+    {
+        "index": 211,
+        "ground_truth": "đấy là gì. tờ bướm công ty khai minh phân phát để quảng bá kết thúc bằng",
+        "prediction": "đây là gì. tôi buồn cũng tự khái kính phát đề quảng bá kết thúc bằng",
+        "cer": 0.2361111111111111
+    },
+    {
+        "index": 212,
+        "ground_truth": "một câu rất đẹp \" một người làm việc tốt, hai người làm việc tốt... tất cả làm việc",
+        "prediction": "nốt của rất đẹp. \" hết người làm rực tới, hai người làm rực tới... tới cả làm rực",
+        "cer": 0.26506024096385544
+    },
+    {
+        "index": 213,
+        "ground_truth": "tốt thì cuộc sống ngày càng tốt đẹp hơn \". tôi chợt bật cười khi nghĩ công việc",
+        "prediction": "tới khi cuộc sống ngày càng tốt tập hơn. \" có thể bắt cái khi nghiệng rực",
+        "cer": 0.3037974683544304
+    },
+    {
+        "index": 214,
+        "ground_truth": "họ đang làm là \" chuyên môn hóa \" việc tốt. chuyên môn hóa là xu hướng",
+        "prediction": "họ đang làm là \" chuyển món hóa \" \" rực lét \". chuyên môn họ là xu hướng",
+        "cer": 0.17142857142857143
+    },
+    {
+        "index": 215,
+        "ground_truth": "của phát triển, việc tốt cũng chuyên môn hóa thì quả là... tốt quá.",
+        "prediction": "của phát triển, việc tốt cũng chuyên môn hơi thịt quả là... rất quá.",
+        "cer": 0.08955223880597014
+    },
+    {
+        "index": 216,
+        "ground_truth": "cũng may là toàn trại hôm đó chỉ có 33 người, thoát chết được 14 người, trong đó có bốn người",
+        "prediction": "công may là toàn trại, hôm đó chỉ có 33 người, thoát chết để có 14 người, trong đó có bốn người.",
+        "cer": 0.06451612903225806
+    },
+    {
+        "index": 217,
+        "ground_truth": "bị thương. công ty chúng tôi toàn người tỉnh ninh bình, đông nhất là ở hai huyện",
+        "prediction": "hồ thường. công ty chúng tôi toàn người trích ninh bình, đóng nhất là 3 hai người",
+        "cer": 0.1625
+    },
+    {
+        "index": 218,
+        "ground_truth": "nho quan, kim sơn. anh nguyễn văn niên - người thoát chết trong gang tấc -",
+        "prediction": "nhỏ chàm, khu sự ánh nguyễn văn miện - người thoát chết trong gang tặc",
+        "cer": 0.21621621621621623
+    },
+    {
+        "index": 219,
+        "ground_truth": "vẫn chưa hết bàng hoàng kể lại : \" lúc đó khoảng 23 g 30, đa số anh em còn",
+        "prediction": "sắn chưa hết lòng hoàng lộc là : \" lúc đó khoảng 23 g 50, đã sẽ anh em còn",
+        "cer": 0.16216216216216217
+    },
+    {
+        "index": 220,
+        "ground_truth": "thức vì một số vừa xem tivi ở trại bên về, một số vừa sửa lại mái trại",
+        "prediction": "khúc cốt một số của xem tới ở trại bên vợ, một số cuộc sửa lại mất bất",
+        "cer": 0.2857142857142857
+    },
+    {
+        "index": 221,
+        "ground_truth": "bị dột vì mưa quá lớn.",
+        "prediction": "hợp đồng về mua quà lớn.",
+        "cer": 0.45454545454545453
+    },
+    {
+        "index": 222,
+        "ground_truth": "bỗng những tiếng ầm ầm từ phía bên trên trại vang lên, tôi cùng anh em vùng dậy. lũ ống xuất hiện",
+        "prediction": "bỏ ng ngừng tiếng âm và tờ phát bên trên trại vàng lên, tôi cũng như em vùng đây. là ông xuất hiện",
+        "cer": 0.18556701030927836
+    },
+    {
+        "index": 223,
+        "ground_truth": ", kèm theo lở núi đổ ào xuống trại. tôi và một số anh em liền chạy thẳng ra phía trước",
+        "prediction": "liệm theo lời nói đã có xuống trại. tôi và một số anh em liền chạy thảo ra phía trước \"",
+        "cer": 0.1744186046511628
+    },
+    {
+        "index": 224,
+        "ground_truth": ", bị lũ đẩy chúi xuống, cố gượng dậy được. chỉ một phút sau tôi đã nhận ra cả trại",
+        "prediction": ", bị lũ đáy chùi xốc, ở chỗ dòng dãy đốc. chỉ một phút sau tôi đã nhận ra cặp mẹ",
+        "cer": 0.25609756097560976
+    },
+    {
+        "index": 225,
+        "ground_truth": "bị cuốn trôi và vùi lấp... \". bãi dựng trại rộng chừng 1 ha nay đã gần như một đầm",
+        "prediction": "bị cuộc sống và vui lòng... \" bãi dậy trại trồng chưa ít hạ nang đã gần như một điểm",
+        "cer": 0.3170731707317073
+    },
+    {
+        "index": 226,
+        "ground_truth": "lầy với khoảng 10.000 khối đất đá, không kể ngổn ngang những cây rừng lớn nhỏ.",
+        "prediction": "các vấn đề khoảng 10.000 khó đạt được, không thể người nặng nghi cấy một lời nhỏ.",
+        "cer": 0.41025641025641024
+    },
+    {
+        "index": 227,
+        "ground_truth": "khủng khiếp nhất là lượng đất đá này đã trôi trượt trên một đoạn dài chừng 600 m, trong đó",
+        "prediction": "không khẳng nhất là tương đối đa với đa nội tại. trên một đoạn dài chúng 600 m, trong đó",
+        "cer": 0.23333333333333334
+    },
+    {
+        "index": 228,
+        "ground_truth": "mái trại \" định mệnh \" này đã bị đẩy đi gần 200 m! không một tiếng kêu gào, trong",
+        "prediction": "mặc trái \" định mệnh \" nói để bị đối với đi giả 200 m! không nỗ trợ, tôi kéo gối thông",
+        "cer": 0.38271604938271603
+    },
+    {
+        "index": 229,
+        "ground_truth": "cơn mưa như trút nước thảm kịch xảy ra trong tích tắc. sau tiếng ầm ào khiếp đảm",
+        "prediction": "cơ miễn vụ trừ nước thành kiện xảy ra trong tổ chức. sau tiếng ảm cần khép đảm",
+        "cer": 0.325
+    },
+    {
+        "index": 230,
+        "ground_truth": "đó, những công nhân ở các trại bên liền đến đổ xô vào việc tiếp cứu bốn người bị thương, rồi",
+        "prediction": "đó, nhưng công nhân ở bản lĩnh đều đã xã vào vực trực cuối và người bị thừa,",
+        "cer": 0.40217391304347827
+    },
+    {
+        "index": 231,
+        "ground_truth": "cùng 10 người còn lại bới đào tìm thi thể những người bất hạnh.",
+        "prediction": "cũng 10 người còn lại đào tạo thì thế, như người bắt hành",
+        "cer": 0.25396825396825395
+    },
+    {
+        "index": 232,
+        "ground_truth": "từ 12 g khuya 13 đến rạng sáng 14 họ đã tìm được xác 19 người. đau lòng lắm",
+        "prediction": "tổ 12 g khuẩy b đếm rộng 11 ha, bỏ tìm được xác 19 người. đau lòng làm",
+        "cer": 0.24
+    },
+    {
+        "index": 233,
+        "ground_truth": "nhưng rồi mình cũng phải ráng. toàn là người cùng quê, cùng vì áo cơm cuộc sống mà",
+        "prediction": "những rõ mình cũng phải rao. toàn là ngày cũng quê. cũng vì đó còn cuộc sống mà",
+        "cer": 0.1951219512195122
+    },
+    {
+        "index": 234,
+        "ground_truth": "đem thân đến đây... \", anh niên ngậm ngùi nói. bác sĩ pháp y nguyễn liêm -",
+        "prediction": "đem thân đến đây... \", anh niên ngậm ngùi nói. bác sĩ pháp y nguyễn liêm -",
+        "cer": 0.0
+    },
+    {
+        "index": 235,
+        "ground_truth": "người phụ trách phẫu thuật giám định - cũng không cầm được xúc động : \" dù có",
+        "prediction": "người phụ trách phải thuật giám định - công kháng cản được việc tội. \" dù có",
+        "cer": 0.18181818181818182
+    },
+    {
+        "index": 236,
+        "ground_truth": "một số người bị chấn thương, nhưng tất cả họ đều bị chết ngạt. họ đều còn",
+        "prediction": "một số người bị chết thương, nhưng tất cả họ đều bị chết ngạt. họ đều còn",
+        "cer": 0.0273972602739726
+    },
+    {
+        "index": 237,
+        "ground_truth": "rất trẻ... \".",
+        "prediction": "rất trẻ... \".",
+        "cer": 0.0
+    },
+    {
+        "index": 238,
+        "ground_truth": "còn những người khác được bán lại qua các ông chủ nhỏ, không biết số phận ra sao.",
+        "prediction": "còn những người khác được bàn lại qua các ông chủ nhỏ, không biết số phần ra nước.",
+        "cer": 0.07407407407407407
+    },
+    {
+        "index": 239,
+        "ground_truth": "lao động tiếp tục bị bán tứ tán. các ông chủ chặn xe chở lao động vn giành nhau người,",
+        "prediction": "lao động tiếp tục bị bãi tới tài. các ông chủ chân xe chở lao động vn giải nhân người,",
+        "cer": 0.13953488372093023
+    },
+    {
+        "index": 240,
+        "ground_truth": "tám người ở lại công trường cũ, 17 người chuyển đi gửi tạm ở một công ty môi giới.",
+        "prediction": "tận người ở lại cũng bướng cả, 17 người duyên dị gần tâm ở một công ty mới gửi.",
+        "cer": 0.21951219512195122
+    },
+    {
+        "index": 241,
+        "ground_truth": "chúng tôi cầu cứu các nơi nhưng đều tuyệt vọng. kuala lumpur ngày thứ 39. cuộc",
+        "prediction": "chúng tôi cầu cứu các nạn nên đã huyệt vọng. khaolak khuẩn ngày 4 thì 39. cuộc",
+        "cer": 0.2564102564102564
+    },
+    {
+        "index": 242,
+        "ground_truth": "sống thật ảm đạm, không một ai giúp đỡ chúng tôi, cứ chuyển dời liên tục.",
+        "prediction": "sống thật an. đoạn, không một ai giúp đỡ chúng tôi, cả chuyện dồn lên tục.",
+        "cer": 0.136986301369863
+    },
+    {
+        "index": 243,
+        "ground_truth": "nhiều người kiệt sức, chúng tôi phải tự cứu mình. 12 người đi bộ 7 km đến ban",
+        "prediction": "nhiều người kiệt suất, chẳng tới phải tự cầu mình. 12 người đi bộ 7 hơn đến ban",
+        "cer": 0.11688311688311688
+    },
+    {
+        "index": 244,
+        "ground_truth": "quản lý lao động và chuyên gia tại malaysia (ở kuala lumpur), đói và khát,",
+        "prediction": "quán lý lao động và chuyên gia tại malaysia (3 kuala lumpur), đời và khát,",
+        "cer": 0.04054054054054054
+    },
+    {
+        "index": 245,
+        "ground_truth": "ngủ tạm nơi vỉa hè. không có giấy thông hành, chúng tôi mất cả quyền tự do đi",
+        "prediction": "ngủ tạm nói vì là. không có giấy thông khẩu, chúng tôi nất cả quyền lợi do đi",
+        "cer": 0.16883116883116883
+    },
+    {
+        "index": 246,
+        "ground_truth": "lại, sống trong lo âu thấp thỏm. từ người lao động hợp pháp, chúng tôi",
+        "prediction": "lại, sống trong lo âu thật thỏm. tôi người lao động hợp pháp, chúng tôi",
+        "cer": 0.05714285714285714
+    },
+    {
+        "index": 247,
+        "ground_truth": "bị công ty biến thành những người bất hợp pháp. quả thật, chúng tôi đang",
+        "prediction": "vì công ty biển thành những người bất hợp pháp. quá thật chúng tôi đang",
+        "cer": 0.06944444444444445
+    },
+    {
+        "index": 248,
+        "ground_truth": "đứng trước cửa nhà giam.",
+        "prediction": "dùng trước của nhà giám.",
+        "cer": 0.16666666666666666
+    },
+    {
+        "index": 249,
+        "ground_truth": "nhưng chúng tôi không còn sự lựa chọn. được ban quản lý can thiệp, đại diện",
+        "prediction": "vụ trung chúng tôi không còn sự lãn chơn. được ban quản lý con thiệp, đời diện",
+        "cer": 0.14666666666666667
+    },
+    {
+        "index": 250,
+        "ground_truth": "công ty đến tách chúng tôi làm ba nhóm mang về khách sạn, bốn người được phát",
+        "prediction": "công ty đến tạp chí chúng tôi làm ba nhiệm mạng về khát xanh, bốn người được phát",
+        "cer": 0.15584415584415584
+    },
+    {
+        "index": 251,
+        "ground_truth": "25 ringgit (khoảng 100.000 đồng vn) ăn trong sáu ngày. sau nhiều cuộc làm việc",
+        "prediction": "25 ngày ( khoảng 100.000 dây vợ) ăn trong sáu ngày. sau nhiều cuộc làm việc",
+        "cer": 0.14102564102564102
+    },
+    {
+        "index": 252,
+        "ground_truth": "với đại diện công ty không thành, họ bắt chúng tôi làm đơn đề nghị xin về",
+        "prediction": "với đại diện công ty khẳng thành, họ bắt chúng tôi làm đời sống xin về",
+        "cer": 0.1095890410958904
+    },
+    {
+        "index": 253,
+        "ground_truth": "nước hoặc tiếp tục ở lại làm việc trong điều kiện khốn cùng như thế.",
+        "prediction": "nước hoặc tiếp tục ở lại lãnh việc trong diện kiểm soát cũng như thế.",
+        "cer": 0.19117647058823528
+    },
+    {
+        "index": 254,
+        "ground_truth": "tất cả chúng tôi đều muốn về song không muốn ký vào đơn tự nguyện",
+        "prediction": "tất cả chúng tôi đều muốn về sông khương nước lý vào đời - lũ nguyện.",
+        "cer": 0.23076923076923078
+    },
+    {
+        "index": 255,
+        "ground_truth": "xin về.",
+        "prediction": "xứ về.",
+        "cer": 0.2857142857142857
+    },
+    {
+        "index": 256,
+        "ground_truth": "điều đó sai sự thật vì mỗi người đến đây đã mất 25 - 28 triệu đồng / phí (tiền",
+        "prediction": "diều đó sai sự khá vì nếu người dại đã nước 25 - 28 triệu đồng / phí (tiền",
+        "cer": 0.23076923076923078
+    },
+    {
+        "index": 257,
+        "ground_truth": "chính thức cho công ty là 1.150 usd và 1 triệu đồng). chúng tôi muốn làm việc",
+        "prediction": "chính thức cho công ty là 1.150 usd và 1 triệu đồng). chúng tôi muốn làm việc",
+        "cer": 0.0
+    },
+    {
+        "index": 258,
+        "ground_truth": "kiếm tiền, kiếm sống và trả những khoản nợ cho chuyến làm ăn xa này.",
+        "prediction": "tiến tiệm, tiệm sống và trở thành khoán nở cho chuyến lãnh của xa nay.",
+        "cer": 0.27941176470588236
+    },
+    {
+        "index": 259,
+        "ground_truth": "ngược lại, không có việc thì chúng tôi về, không phải tự nguyện xin về",
+        "prediction": "nguồn lạc không có việc thi chứng tài về, không phải là nguyện xin về",
+        "cer": 0.14285714285714285
+    },
+    {
+        "index": 260,
+        "ground_truth": "để công ty phủi bỏ mọi trách nhiệm sau đó. căng thẳng từng ngày, đói ăn,",
+        "prediction": "để công ty phụ bộ mọi trách nhiệm sau đó. càng thăng tiếng ngày, đời ấn,",
+        "cer": 0.125
+    },
+    {
+        "index": 261,
+        "ground_truth": "những nét mặt xanh xao như không còn giọt máu.",
+        "prediction": "những nét suốt xanh xao như không còn giật nhau.",
+        "cer": 0.15217391304347827
+    },
+    {
+        "index": 262,
+        "ground_truth": "trại kem kjang... 864 giờ khắc khoải ngày 25 - 10 - 2003, chúng tôi ngơ",
+        "prediction": "trái kèi kijang... 864 giờ khác khoái ngày 25 - 10 - 2013, chúng tôi ngờ",
+        "cer": 0.11267605633802817
+    },
+    {
+        "index": 263,
+        "ground_truth": "ngác khi bị cảnh sát bắt ngay trong khách sạn vì không có giấy tờ tùy",
+        "prediction": "ngại khi bị cảnh sát bắt ngay trong khách sạn vì không có giấy tờ tùy",
+        "cer": 0.028985507246376812
+    },
+    {
+        "index": 264,
+        "ground_truth": "thân. thật là khủng khiếp! \" nhất nhật tại tù... \" : bệnh tật, roi mây,",
+        "prediction": "thân. thật là không khỏe? \" nhất nhất tại tôi... \": bệnh tật, nói ngày,",
+        "cer": 0.19718309859154928
+    },
+    {
+        "index": 265,
+        "ground_truth": "giày đinh và đói khát, ngày được hai vắt cơm, sáng một lát bánh mì,",
+        "prediction": "gây điều và đòi hỏi, ngày được hai vấn còn, sáng một lát bạnh núi,",
+        "cer": 0.23880597014925373
+    },
+    {
+        "index": 266,
+        "ground_truth": "điểm danh bốn tiếng / lần, bất kể ngày đêm.",
+        "prediction": "điểm dành 4 tiếng lão, bất kể ngày đến.",
+        "cer": 0.23255813953488372
+    },
+    {
+        "index": 267,
+        "ground_truth": "bản chất của thành công",
+        "prediction": "bản chất của thành công",
+        "cer": 0.0
+    },
+    {
+        "index": 268,
+        "ground_truth": "đã bao giờ bạn tự hỏi thành công là gì mà bao kẻ bỏ cả cuộc đời mình theo đuổi? phải chăng",
+        "prediction": "đã bao giờ lãn từ khi thành công là gì mà hoặc là cả cuộc đời theo dấu? thâu chẳng",
+        "cer": 0.2777777777777778
+    },
+    {
+        "index": 269,
+        "ground_truth": "đó là kết quả hoàn hảo trong công việc, sự chính xác đến từng chi tiết? hay đó",
+        "prediction": "đó là kết quả hoàn hảo trong công việc, sự chính xác đẵng chí trực? hay đó",
+        "cer": 0.11538461538461539
+    },
+    {
+        "index": 270,
+        "ground_truth": "là cách nói khác của từ thành đạt, nghĩa là có được một cuộc sống giàu",
+        "prediction": "là cách nói khác của từ thành đạt, nghĩa là có được một cuộc sống giàu",
+        "cer": 0.0
+    },
+    {
+        "index": 271,
+        "ground_truth": "sang, được mọi người nể phục? vậy thì bạn hãy dành chút thời gian để",
+        "prediction": "sáng, được mọi người nể phục? vậy thì bạn hay dùng chất thời gian để",
+        "cer": 0.07352941176470588
+    },
+    {
+        "index": 272,
+        "ground_truth": "lặng mình suy ngẫm.",
+        "prediction": "làng mình quy ngã.",
+        "cer": 0.21052631578947367
+    },
+    {
+        "index": 273,
+        "ground_truth": "cuộc sống sẽ chỉ cho bạn có những người đạt được thành công theo một",
+        "prediction": "cuộc sống sẽ chỉ cho bạn có những người đạt được thành công theo một",
+        "cer": 0.0
+    },
+    {
+        "index": 274,
+        "ground_truth": "cách giản dị đến bất ngờ.",
+        "prediction": "cách giản dị đến lãi ngộ.",
+        "cer": 0.16
+    },
+    {
+        "index": 275,
+        "ground_truth": "thành công là khi bố và con trai có dũng khí bước vào bếp, nấu những món",
+        "prediction": "thành công là khi đó vũ con trai có dũng khi được vào ép, nấu những món",
+        "cer": 0.1111111111111111
+    },
+    {
+        "index": 276,
+        "ground_truth": "ăn mẹ thích nhân ngày 8 - 3. món canh có thể hơi mặn, món cá sốt đáng",
+        "prediction": "án mẹ thiếu nhân ngày 8 - 3. món canh có thể hơi mặn, món cá sót đáng",
+        "cer": 0.07246376811594203
+    },
+    {
+        "index": 277,
+        "ground_truth": "lẽ phải có màu đỏ sậm thì lại ngả sang màu... đen cháy. nhưng nhìn",
+        "prediction": "lê phái có màu đỏ sậm thì lại ngả sang màu... đen cháy. nhưng nhìn",
+        "cer": 0.030303030303030304
+    },
+    {
+        "index": 278,
+        "ground_truth": "mâm cơm, mẹ vẫn cười. bởi vì hai bố con không thể thành công trên",
+        "prediction": "mâm cơm, mẹ vẫn cười. bố vì hai lô còn không thể thành công trên",
+        "cer": 0.07692307692307693
+    },
+    {
+        "index": 279,
+        "ground_truth": "\" chiến trường \" bếp núc, nhưng lại thành công khi tặng mẹ đoá hồng",
+        "prediction": "\" chiến trường \" kép nước, nhưng lại thành công khi tặng mẹ đưa hàng",
+        "cer": 0.1044776119402985
+    },
+    {
+        "index": 280,
+        "ground_truth": "tình yêu. một món quà ý nghĩa hơn cả những món quà quý giá,",
+        "prediction": "tình yêu. một món qua ý nghĩa hơn cả những món qua quý giá,",
+        "cer": 0.03389830508474576
+    },
+    {
+        "index": 281,
+        "ground_truth": "hạnh phúc ấy long lanh in trong mắt mẹ.",
+        "prediction": "hành phục ấy long lãnh in trong mắt mẹ.",
+        "cer": 0.07692307692307693
+    },
+    {
+        "index": 282,
+        "ground_truth": "thành công còn là hình ảnh một cậu bé bị dị tật ở chân, không bao giờ đi",
+        "prediction": "thành công còn lại hình ảnh mất cầu lộ đi đã chán, không loặng đi",
+        "cer": 0.3194444444444444
+    },
+    {
+        "index": 283,
+        "ground_truth": "lại bình thường được. từ nhỏ cậu đã nuôi ước mơ trở thành cầu thủ",
+        "prediction": "lại lĩnh thương được. từ nhỏ câu đã nêu ước mơ từ thành cầu thủ",
+        "cer": 0.13846153846153847
+    },
+    {
+        "index": 284,
+        "ground_truth": "bóng đá. sau bao nỗ lực khổ luyện, cậu bé trở thành cầu thủ dự",
+        "prediction": "bóng đá. sau lao nổ lưu khổ luyện, cậu bị trở thành cầu thủ dự án",
+        "cer": 0.12903225806451613
+    },
+    {
+        "index": 285,
+        "ground_truth": "bị trong một đội bóng nhỏ, và chưa bao giờ được chính thức ra sân.",
+        "prediction": "lý trọng mất đời bóng nhỏ, và chưa bao giờ được chính thức ra sản.",
+        "cer": 0.09090909090909091
+    },
+    {
+        "index": 286,
+        "ground_truth": "nhưng đó không phải là thất bại. trái lại, thành công đã nở hoa khi",
+        "prediction": "những đó không phải là thất bại. trái lại, thành công đã nỗ lực khi",
+        "cer": 0.07462686567164178
+    },
+    {
+        "index": 287,
+        "ground_truth": "cậu bé năm xưa, với bao nghị lực và quyết tâm, đã chiến thắng",
+        "prediction": "cầu bê năm xưa, với bao nghị lực và quyết tâm, đã chiến thắng",
+        "cer": 0.03278688524590164
+    },
+    {
+        "index": 288,
+        "ground_truth": "hoàn cảnh để theo đuổi ước mơ từ thơ bé.",
+        "prediction": "hoàn cảnh để theo đuổi vào mở từ thế kỷ.",
+        "cer": 0.175
+    },
+    {
+        "index": 289,
+        "ground_truth": "thành công ấy, liệu có mấy người đạt được?",
+        "prediction": "thành công ấy, liệu có mấy người đạt được?",
+        "cer": 0.0
+    },
+    {
+        "index": 290,
+        "ground_truth": "sau mỗi mùa thi đại học, có bao \" sĩ tử \" buồn rầu khi biết mình trở",
+        "prediction": "sau mỗi mùa thi đại học, có bao \" giờ tôi \" buồn rầu khi biết mình trở",
+        "cer": 0.07352941176470588
+    },
+    {
+        "index": 291,
+        "ground_truth": "thành \" tử sĩ \". hai bảy điểm, cao thật đấy. nhưng cao mà làm gì",
+        "prediction": "thành \" từ rồi \". hai bảy điểm, cao thật đấy. nhưng cao mà cảm giờ",
+        "cer": 0.125
+    },
+    {
+        "index": 292,
+        "ground_truth": "khi nv1 lấy tới hai bảy phẩy năm? đó thật ra không phải là thất bại,",
+        "prediction": "khi nv1 cấy từ hai bảy phẩy năm? đó thất ra không phải là thất cầu,",
+        "cer": 0.10294117647058823
+    },
+    {
+        "index": 293,
+        "ground_truth": "chỉ là khi thành công - bị - trì - hoãn mà thôi. cuộc sống vẫn chào",
+        "prediction": "chỉ là khi thành công - lý - trí - hoàn mão thời. cùng nồng vận chào",
+        "cer": 0.19402985074626866
+    },
+    {
+        "index": 294,
+        "ground_truth": "đón họ với nv2, nv3. quan trọng là họ đã nỗ lực hết sức",
+        "prediction": "dân họ vẫn nv2, nv3. quan trọng là họ đã nỗ lực hết sức",
+        "cer": 0.07272727272727272
+    },
+    {
+        "index": 295,
+        "ground_truth": "để khẳng định mình. đó là ý nghĩa nguyên vẹn của các kỳ thi,",
+        "prediction": "tế khẳng định mình. đó cái ý nghĩa nguyên vẹn của các kỳ thi,",
+        "cer": 0.08333333333333333
+    },
+    {
+        "index": 296,
+        "ground_truth": "và cũng là bản chất của thành công.",
+        "prediction": "và cũng là bản chất của thành công.",
+        "cer": 0.0
+    },
+    {
+        "index": 297,
+        "ground_truth": "cũng may là toàn trại hôm đó chỉ có 33 người, thoát chết được 14 người, trong đó có bốn người bị thương. công",
+        "prediction": "cũng may là toàn trại hơn đó chí có 33 người, 1 hoạt chất 14 người, ngã đỏ có 4 người bị thương. công",
+        "cer": 0.1834862385321101
+    },
+    {
+        "index": 298,
+        "ground_truth": "ty chúng tôi toàn người tỉnh ninh bình, đông nhất là ở hai huyện nho quan, kim sơn. anh nguyễn văn",
+        "prediction": "tuy chương tới toàn người tính ninh bình, đứng nhất là hai huyện nho quan, kim sơn. amh nguyễn văn",
+        "cer": 0.09183673469387756
+    },
+    {
+        "index": 299,
+        "ground_truth": "niên - người thoát chết trong gang tấc - vẫn chưa hết bàng hoàng kể lại : \" lúc đó khoảng",
+        "prediction": "niệm người hoạt chất trong gương tất - văn chưa hết bóng hoàng đế lai : \" lúc đó khoảng",
+        "cer": 0.16853932584269662
+    },
+    {
+        "index": 300,
+        "ground_truth": "23 g 30, đa số anh em còn thức vì một số vừa xem tivi ở trại bên về, một số vừa sửa",
+        "prediction": "23g 30, đa số anh em còn thực vì số vừa xem thị ở hai bên về, một số vừa sửa",
+        "cer": 0.14457831325301204
+    },
+    {
+        "index": 301,
+        "ground_truth": "lại mái trại bị dột vì mưa quá lớn.",
+        "prediction": "lại mải khí bị dột vì mùa gua lớn",
+        "cer": 0.2571428571428571
+    },
+    {
+        "index": 302,
+        "ground_truth": "bỗng những tiếng ầm ầm từ phía bên trên trại vang lên, tôi cùng anh em vùng dậy. lũ ống xuất",
+        "prediction": "bóng nhìn trông ẩm ẩm từ phía bên tìm ra vang lên, tôi cùng anh em vừng dậy. lời ông xuất",
+        "cer": 0.18478260869565216
+    },
+    {
+        "index": 303,
+        "ground_truth": "hiện, kèm theo lở núi đổ ào xuống trại. tôi và một số anh em liền chạy thẳng ra phía trước,",
+        "prediction": "hiện, hơn theo lô núi đó xương trại. tôi và mẹ số anh em không thấy ra phía trước,",
+        "cer": 0.25274725274725274
+    },
+    {
+        "index": 304,
+        "ground_truth": "bị lũ đẩy chúi xuống, cố gượng dậy được. chỉ một phút sau tôi đã nhận ra cả trại bị",
+        "prediction": "bị lũ đầy chui xương, có giường dày được. chỉ một phút sau đó nhận ra cả trại bị",
+        "cer": 0.1566265060240964
+    },
+    {
+        "index": 305,
+        "ground_truth": "cuốn trôi và vùi lấp... \". bãi dựng trại rộng chừng 1 ha nay đã gần như một đầm lầy",
+        "prediction": "cuốn trở về với lập... \" bất đứng tại xông chừng i ha này đã gần như mờ đám lấy",
+        "cer": 0.2289156626506024
+    },
+    {
+        "index": 306,
+        "ground_truth": "khoảng 10.000 khối đất đá, không kể ngổn ngang những cây rừng lớn nhỏ.",
+        "prediction": "không 10.00 ở khỏi đất đai, không ai ngồn ngang nhưng cũng vẫn lẫn nhỏ.",
+        "cer": 0.2571428571428571
+    },
+    {
+        "index": 307,
+        "ground_truth": "khủng khiếp nhất là lượng đất đá này đã trôi trượt trên một đoạn dài chừng 600 m, trong đó mái trại",
+        "prediction": "chúng khắp nhất là lương đất đai này đã hướng thêm một đoạn dài chừng 600 m, tăng đổi mới trại,",
+        "cer": 0.25252525252525254
+    },
+    {
+        "index": 308,
+        "ground_truth": "\" định mệnh \" này đã bị đẩy đi gần 200 m! không một tiếng kêu gào, trong cơn mưa như",
+        "prediction": "\" đình mình \" này đã bị đẩy đi gần 200 m! không một tháng, anu giao, uong còn mưa như",
+        "cer": 0.14285714285714285
+    },
+    {
+        "index": 309,
+        "ground_truth": "trút nước thảm kịch xảy ra trong tích tắc. sau tiếng ầm ào khiếp đảm đó, những công",
+        "prediction": "- hút nước thảm khói xảy ra nguy hiểm tắc. sau túng ám áo khíp đảm đổ, những công",
+        "cer": 0.26506024096385544
+    },
+    {
+        "index": 310,
+        "ground_truth": "nhân ở các trại bên liền đến đổ xô vào việc tiếp cứu bốn người bị thương, rồi cùng 10",
+        "prediction": "nhân ở các khu bên liên đến đó, xã vào việc tiếp cận bốn người bị thương, kết cùng vợ",
+        "cer": 0.17647058823529413
+    },
+    {
+        "index": 311,
+        "ground_truth": "người còn lại bới đào tìm thi thể những người bất hạnh.",
+        "prediction": "người còn lại bắt đầu tìm thế này đối bất hạnh.",
+        "cer": 0.3090909090909091
+    },
+    {
+        "index": 312,
+        "ground_truth": "từ 12 g khuya 13 đến rạng sáng 14 họ đã tìm được xác 19 người. đau lòng lắm nhưng rồi",
+        "prediction": "ái 12 g khuyến 13 đến xong sáng 14 hoạt động xác lập người, dầu lòng làm nhưng vẫn",
+        "cer": 0.3058823529411765
+    },
+    {
+        "index": 313,
+        "ground_truth": "mình cũng phải ráng. toàn là người cùng quê, cùng vì áo cơm cuộc sống mà đem thân",
+        "prediction": "mình cũng phải lặng. tại ăn lại ngồi cũng quê, cũng vì áo cơm cuộc sống mà đem thân",
+        "cer": 0.14814814814814814
+    },
+    {
+        "index": 314,
+        "ground_truth": "đến đây... \", anh niên ngậm ngùi nói. bác sĩ pháp y nguyễn liêm - người phụ trách",
+        "prediction": "đến đây... \", anh niên ngậm ngùi nói. bất sợ pháp ý nguyễn liêm - người phụ thuộc",
+        "cer": 0.09876543209876543
+    },
+    {
+        "index": 315,
+        "ground_truth": "phẫu thuật giám định - cũng không cầm được xúc động : \" dù có một số người bị chấn thương,",
+        "prediction": "phải thuật giảm dính - cũng cảm được xúc động : \" đù có một số người bị chấn thương,",
+        "cer": 0.14444444444444443
+    },
+    {
+        "index": 316,
+        "ground_truth": "nhưng tất cả họ đều bị chết ngạt. họ đều còn rất trẻ... \".",
+        "prediction": "nhưng rất cần họ đến bị chết ngạt. họ đến còn rất rẻ... \".",
+        "cer": 0.13793103448275862
+    },
+    {
+        "index": 317,
+        "ground_truth": "tôi giở bản danh sách mà ông quyền trao ra xem, thì ra trong số 19 người, chỉ trừ",
+        "prediction": "tôi giờ bốn danh sách mà ông ruyến tạo ra xem, thì ra tương số lý ngủ dồi, chữ ái",
+        "cer": 0.2222222222222222
+    },
+    {
+        "index": 318,
+        "ground_truth": "đội trưởng võ văn chiến ở tuổi 47, bảo vệ hoàng văn định ở tuổi 35, số còn lại đều",
+        "prediction": "độ trường về văn chính ở tuần 47, báo vụ hương văn - lãnh đạo tưới 35, số con lưu điều",
+        "cer": 0.3048780487804878
+    },
+    {
+        "index": 319,
+        "ground_truth": "ở độ tuổi 21 - 25. bóng tối dần buông xuống \" thung lũng vàng \", mái lều vĩnh biệt",
+        "prediction": "3 đô tuổi 21 - 25. bóng tối dân bướm xuống \" thung lũng vùng \", mới lên vịnh biển,",
+        "cer": 0.18292682926829268
+    },
+    {
+        "index": 320,
+        "ground_truth": "của những người đào vàng bất hạnh phần phật trước ngọn gió từ hướng rừng thổi tới",
+        "prediction": "của những người đào vàng bốt hành phẩm phát triển ngọn gió từ hương rừng thời tới",
+        "cer": 0.12345679012345678
+    },
+    {
+        "index": 321,
+        "ground_truth": "nghe thật não nùng nhưng những người khâm liệm vẫn tiếp tục công việc, công nhân",
+        "prediction": "ng hệ thống nước những những người khám liền vẫn tiếp tục công việc, công nhân",
+        "cer": 0.175
+    },
+    {
+        "index": 322,
+        "ground_truth": "đào vàng của công ty trường sơn vẫn ngồi chờ chào vĩnh biệt những đồng đội vắn số",
+        "prediction": "đào vùng của công ty trường sơn vẫn ngồi chờ chào vĩnh biệt nhưng đóng đối với số",
+        "cer": 0.07407407407407407
+    },
+    {
+        "index": 323,
+        "ground_truth": "của mình.",
+        "prediction": "của mình.",
+        "cer": 0.0
+    },
+    {
+        "index": 324,
+        "ground_truth": "cái bếp nhỏ, mẹ ơi...",
+        "prediction": "cái bếp nhỏ, mẹ ơi...",
+        "cer": 0.0
+    },
+    {
+        "index": 325,
+        "ground_truth": "sẽ tổ chức phố đi bộ tại hội an. chủ tịch ubnd tỉnh quảng nam",
+        "prediction": "sẽ tổ chức phó đại bà tại hà an. chủ tịch ubnd tỉnh quảng nam",
+        "cer": 0.08196721311475409
+    },
+    {
+        "index": 326,
+        "ground_truth": "nguyễn xuân phúc cho biết tỉnh sẽ đầu tư xây dựng khu phố đi",
+        "prediction": "nguyễn xuân phúc cho biết tỉnh hình sẽ đâu từ xây dựng khu phố ở",
+        "cer": 0.15
+    },
+    {
+        "index": 327,
+        "ground_truth": "bộ tại 6 đường phố chính của khu phố cổ hội an, đồng thời tổ chức chợ đêm, các",
+        "prediction": "bộ tài 6 đường phố cổ hải an, đứng thứ 52 chức chủ đơn, các",
+        "cer": 0.358974358974359
+    },
+    {
+        "index": 328,
+        "ground_truth": "quán bar, cà phê, các khu vui chơi giải trí mở cửa phục vụ theo",
+        "prediction": "quán bạc, cá phí, các khu vui chơi giải trí mở cửa phục vụ theo",
+        "cer": 0.06349206349206349
+    },
+    {
+        "index": 329,
+        "ground_truth": "yêu cầu của du khách. tại các điểm du lịch này sẽ tổ chức các",
+        "prediction": "yêu cầu của du khách. tại các điểm du lịch này sẽ tồn chắc các",
+        "cer": 0.04918032786885246
+    },
+    {
+        "index": 330,
+        "ground_truth": "lễ hội, như đêm rằm phố cổ mỗi tuần một lần và tổ chức các",
+        "prediction": "lễ hội, nhu cầu tâm sự phố cổ mỗi tuần một lần và tổ chức các",
+        "cer": 0.15517241379310345
+    },
+    {
+        "index": 331,
+        "ground_truth": "hội nghị quốc tế và mở các tour du lịch làng nghề truyền thống.",
+        "prediction": "khí nghị quốc tế và mở các tour du lịch lặng nghề truyền thống.",
+        "cer": 0.06349206349206349
+    },
+    {
+        "index": 332,
+        "ground_truth": "cũng trong chương trình đẩy mạnh phát triển du lịch này, tổ",
+        "prediction": "cũng như trong chương trình đẩy mạnh phát triển du lịch mấy, từ",
+        "cer": 0.11864406779661017
+    },
+    {
+        "index": 333,
+        "ground_truth": "chức jica nhật bản đã đề nghị quảng nam triển khai nhanh 10",
+        "prediction": "chức jica nhật bản đã đề nghị quảng nam triển khai nhanh, tới",
+        "cer": 0.06779661016949153
+    },
+    {
+        "index": 334,
+        "ground_truth": "dự án do ica đề xuất trong phát triển du lịch miền trung như",
+        "prediction": "dự án do ica đã xuất trong phát triển du lịch miền trung như",
+        "cer": 0.016666666666666666
+    },
+    {
+        "index": 335,
+        "ground_truth": "dự án trung tâm thông tin du lịch, phát triển bãi đổ xe bên đường,",
+        "prediction": "dự án trung tâm thông tin du lịch, phát triển bãi đỗ xe bán đường",
+        "cer": 0.045454545454545456
+    },
+    {
+        "index": 336,
+        "ground_truth": "mạng lưới thông tin bảo tàng lịch sử văn hoá, dự án trung tâm du",
+        "prediction": "mang luồn thông tin báo tăng lịch sự văn hóa, dự án trung tâm du",
+        "cer": 0.140625
+    },
+    {
+        "index": 337,
+        "ground_truth": "khách, mạng lưới đường bộ ven biển, chương trình phòng trưng bày khu",
+        "prediction": "khách, mang luồn đông bộ ven biển, chương trình phong trào bãi khu",
+        "cer": 0.17647058823529413
+    },
+    {
+        "index": 338,
+        "ground_truth": "tháp chăm mỹ sơn, chương trình giảm thiểu tác động của lũ tại đô",
+        "prediction": "thập chân mỹ sơn, chương trình giảm thiểu tái đóng cửa lũ tại đô",
+        "cer": 0.09375
+    },
+    {
+        "index": 339,
+        "ground_truth": "thị cổ hội an, chương trình quản lý đô thị cổ hội an, quản lý",
+        "prediction": "thì có hội an, chúng tôi quán lý đã thuộc số thứ 2 hội an, quán lý",
+        "cer": 0.36065573770491804
+    },
+    {
+        "index": 340,
+        "ground_truth": "khu tháp chăm mỹ sơn, chương trình hỗ trợ du lịch đồng quê...",
+        "prediction": "phụ tháp châm mỹ sơn, chương trình hỗ trợ du lịch đông quê...",
+        "cer": 0.06557377049180328
+    },
+    {
+        "index": 341,
+        "ground_truth": "\" nhà nước vn tái khẳng định một cách công khai và mạnh mẽ những chủ trương,",
+        "prediction": "nhà nước vn đã không dính một cách công khai và mạnh mẽ nhăng chủ trương",
+        "cer": 0.13157894736842105
+    },
+    {
+        "index": 342,
+        "ground_truth": "chính sách ưu đãi của nhà nước dành cho bà con việt kiều \" - thứ trưởng",
+        "prediction": "chính sách ưu đãi của nhà nước dành cho bà con việt kiều \". - thời trường",
+        "cer": 0.056338028169014086
+    },
+    {
+        "index": 343,
+        "ground_truth": "ngoại giao nguyễn phú bình. những điểm mới nổi bật của nghị quyết",
+        "prediction": "ngại gạo nguyễn phú bình. nhưng điểm mới nói bất cứu nghị quyết",
+        "cer": 0.12307692307692308
+    },
+    {
+        "index": 344,
+        "ground_truth": "của bộ chính trị về công tác đối với người vn ở nước ngoài đã",
+        "prediction": "sửa bộ chính trị về công tác đối với người vn ở nước ngoài đã",
+        "cer": 0.03278688524590164
+    },
+    {
+        "index": 345,
+        "ground_truth": "được thứ trưởng bộ ngoại giao nguyễn phú bình, chủ nhiệm ủy",
+        "prediction": "dưới thủ tướng bộ ngoại giao nguyễn phi bình, chủ nhiệm ủy",
+        "cer": 0.11864406779661017
+    },
+    {
+        "index": 346,
+        "ground_truth": "ban về người vn ở nước ngoài, trao đổi với tuổi trẻ trong một",
+        "prediction": "lưu về người vn ở nước ngoài, đào đối với tuổi trẻ trong một",
+        "cer": 0.11475409836065574
+    },
+    {
+        "index": 347,
+        "ground_truth": "cuộc gặp gỡ ở tại hà nội hôm qua.",
+        "prediction": "cuộc gặp gỡ ở tại hà nội thơm qua.",
+        "cer": 0.06060606060606061
+    },
+    {
+        "index": 348,
+        "ground_truth": "thưa ông, có lý do đặc biệt nào dẫn tới việc ra đời nghị quyết về công tác",
+        "prediction": "thưa ông, có lý do đặc biệt nào dành tôi việc ra đời nghị quyết về công tác",
+        "cer": 0.04054054054054054
+    },
+    {
+        "index": 349,
+        "ground_truth": "đối với người việt ở nước ngoài (nvơnn) thời điểm này? - trong nhiều năm",
+        "prediction": "đôi với người việt ở nước ngoài (nvonn) thôi điều này? - trong nhiều năm",
+        "cer": 0.06944444444444445
+    },
+    {
+        "index": 350,
+        "ground_truth": "qua, đảng và nhà nước đã ban hành nhiều chính sách về vận động nvơnn",
+        "prediction": "qua, đảng và nhà nước đã ban hành nhiều chính sách về vận động nướng",
+        "cer": 0.04411764705882353
+    },
+    {
+        "index": 351,
+        "ground_truth": "cũng như nhiều chính sách tạo thuận lợi cho bà con trong việc về thăm thân nhân,",
+        "prediction": "cũng như nhiều chính sách tạo thuận lợi cho bà con trong việc sự tham thân nhìn,",
+        "cer": 0.05
+    },
+    {
+        "index": 352,
+        "ground_truth": "sở hữu nhà đất, bình đẳng trong giá các dịch vụ và khuyến khích bà",
+        "prediction": "số hiệu nhà đất, tỉnh đứng trong giới các dịch vụ và khuyến khích lựa",
+        "cer": 0.16666666666666666
+    },
+    {
+        "index": 353,
+        "ground_truth": "con về nước đầu tư, kinh doanh. nhiều chính sách và chủ trương đã và",
+        "prediction": "con vỏ nước đậu tơ, linh doanh. nhiều chính sách và lưu trường đã có",
+        "cer": 0.14705882352941177
+    },
+    {
+        "index": 354,
+        "ground_truth": "đang từng bước đi vào cuộc sống và được bà con việt kiều hoan nghênh.",
+        "prediction": "đừng trừng bước đi rồi cầu cục, xong và được bà con việt kiều hoan nghĩa.",
+        "cer": 0.21739130434782608
+    },
+    {
+        "index": 355,
+        "ground_truth": "tuy nhiên, cũng phải nhìn nhận rằng những chính sách này vẫn còn một số điểm hạn",
+        "prediction": "tuy nhiên, cũng phải nhìn nhận rằng những chính sách này vẫn còn một số điểm hạn",
+        "cer": 0.0
+    },
+    {
+        "index": 356,
+        "ground_truth": "chế, chưa đáp ứng được đầy đủ nguyện vọng của bà con. mặt khác, việc thực hiện",
+        "prediction": "chế, chưa đáp ứng được đầy đủ nguyên vong của bà con. mặt khác, việc thực hiện",
+        "cer": 0.02564102564102564
+    },
+    {
+        "index": 357,
+        "ground_truth": "chính sách chưa đồng bộ, thậm chí có những trường hợp cá biệt còn trái với cả",
+        "prediction": "chính sách chưa đáng lòng, thậm chí có những trường hợp có biết còn trái với cá",
+        "cer": 0.1038961038961039
+    },
+    {
+        "index": 358,
+        "ground_truth": "chủ trương, chính sách của nhà nước. lý do thứ hai là hoàn cảnh hiện tại",
+        "prediction": "chủ trương, chính sách của nhà nước. lý do thứ hai là hoàn cảnh hiện tại",
+        "cer": 0.0
+    },
+    {
+        "index": 359,
+        "ground_truth": "rất khác so với thời điểm ban hành những chính sách trước đây. nếu như",
+        "prediction": "nát khác so với thời điểm ban hành những chiến sách trước đây. nếu như",
+        "cer": 0.07142857142857142
+    },
+    {
+        "index": 360,
+        "ground_truth": "năm 1986 - 1987, số bà con việt kiều về thăm quê chỉ khoảng 8.000 người",
+        "prediction": "năm 1986 - 1987, số lão cơn việt biển về thân quê chí khoảng 8.000 người.",
+        "cer": 0.15492957746478872
+    },
+    {
+        "index": 361,
+        "ground_truth": "thì nay đã tăng lên 360.000 lượt người / năm, lượng kiều hối chuyển về",
+        "prediction": "thì nay đã tăng lên 360.000 lượt người / năm, lượng kiều hồi chuyển về",
+        "cer": 0.014285714285714285
+    },
+    {
+        "index": 362,
+        "ground_truth": "cũng đạt mức kỷ lục là 2,6 tỉ usd / năm.",
+        "prediction": "cũng đạt mức kỷ lục là 2,6 tỉ usd / năm.",
+        "cer": 0.0
+    },
+    {
+        "index": 363,
+        "ground_truth": "chính thực tế này đòi hỏi những chủ trương mạnh dạn hơn, thông thoáng và",
+        "prediction": "chính thức từ này đã hội những chủ trương mạnh dạn hơn, thông thoáng vừa",
+        "cer": 0.09722222222222222
+    },
+    {
+        "index": 364,
+        "ground_truth": "toàn diện hơn trong chính sách đối với nvơnn. tinh thần của nghị quyết lần",
+        "prediction": "toàn diện hơn trong chính sách đối với nvdnn. tình thân của nghị quyết là",
+        "cer": 0.06756756756756757
+    },
+    {
+        "index": 365,
+        "ground_truth": "này có những điểm mới nổi bật nào so với các chính sách trước đây, thưa",
+        "prediction": "này có những điểm mới nổi bật nào so với các chính sách trước đây, thừa",
+        "cer": 0.014084507042253521
+    },
+    {
+        "index": 366,
+        "ground_truth": "ông? bộ ngoại giao đang dự thảo một chương trình hành động, trong đó xác",
+        "prediction": "ông? bố ngoại giao đang dự thảo một chương trình hành động, trong đó xác",
+        "cer": 0.013888888888888888
+    },
+    {
+        "index": 367,
+        "ground_truth": "định rõ mỗi cơ quan có trách nhiệm gì để thực tế hóa chính sách. dựa vào",
+        "prediction": "đình rồi mới có quan có trách nhiệm gì để thực tế hoá chính sách. dựa vào",
+        "cer": 0.09722222222222222
+    },
+    {
+        "index": 368,
+        "ground_truth": "chương trình hành động này, các cơ quan sẽ thực hiện kiểm điểm trách",
+        "prediction": "chúng tôi hãnh động này, các cơ quan sẽ thực hiện kiểm triển khai",
+        "cer": 0.22058823529411764
+    },
+    {
+        "index": 369,
+        "ground_truth": "nhiệm của mình nếu như thực hiện không tốt.",
+        "prediction": "nhiệm của mình nếu như thực hiện không tốt.",
+        "cer": 0.0
+    },
+    {
+        "index": 370,
+        "ground_truth": "riêng với các cơ quan đại diện ngoại giao vn ở nước ngoài, sẽ phải nâng cao",
+        "prediction": "riêng cơ sở các quán đại diện ngoài giao vn ở nước ngoài, hệ phải nâng cao",
+        "cer": 0.16
+    },
+    {
+        "index": 371,
+        "ground_truth": "nghĩa vụ của mình trong việc bảo hộ công dân. mỗi nơi sẽ phải xây dựng chương",
+        "prediction": "nghĩa vụ của mình trong việc bảo hộ công dân. mỗi nơi sẽ phải rằng đúng chương",
+        "cer": 0.07792207792207792
+    },
+    {
+        "index": 372,
+        "ground_truth": "trình hành động riêng của mình, thực hiện nghiêm ngặt việc quan tâm, nắm",
+        "prediction": "trình hành động riêng của mình, thực hiện nghiêm ngặt việc quan tâm, nắm",
+        "cer": 0.0
+    },
+    {
+        "index": 373,
+        "ground_truth": "sát tình hình cộng đồng và nhất là bảo vệ quyền lợi của cộng đồng người",
+        "prediction": "sát tính hình ống đồng và nhất là báo vệ quyền lợi của công đồng người",
+        "cer": 0.07042253521126761
+    },
+    {
+        "index": 374,
+        "ground_truth": "việt tại nước sở tại. - trước hết, đây là lần đầu tiên một nghị quyết",
+        "prediction": "việt tại nước có tài sản. - trước hết, đây là lần tấn tiền một nghị quyết",
+        "cer": 0.15942028985507245
+    },
+    {
+        "index": 375,
+        "ground_truth": "toàn diện về công tác nvơnn được phổ biến công khai và rộng rãi.",
+        "prediction": "toàn diện về công tác nvơnn được phó triển công khai và rộng rãi.",
+        "cer": 0.0625
+    },
+    {
+        "index": 376,
+        "ground_truth": "mục đích của việc phổ biến rộng rãi là gì? thứ nhất, để tái khẳng định một",
+        "prediction": "mục đích của việc phổ biến rộng rãi là gì? thời nhật, đã tới khẳng định một",
+        "cer": 0.06756756756756757
+    },
+    {
+        "index": 377,
+        "ground_truth": "cách công khai và mạnh mẽ những chủ trương, chính sách ưu đãi của nhà nước",
+        "prediction": "cách công khai và mạnh mẽ nhưng chủ trương, chính sách vẫn đưa vừa vừa nước",
+        "cer": 0.14864864864864866
+    },
+    {
+        "index": 378,
+        "ground_truth": "dành cho bà con việt kiều. thứ hai là để các bộ ngành của vn nhận thức",
+        "prediction": "dành cho bà con việt kiều. thứ hai là đã các bộ ngành của vn nhận thức",
+        "cer": 0.014285714285714285
+    },
+    {
+        "index": 379,
+        "ground_truth": "được rằng việc thực hiện chính sách sẽ luôn được sự theo dõi, đánh giá sát",
+        "prediction": "được nâng việc thực hiện chính sách xã hội hơn được sự theo dõi, đánh giá sát",
+        "cer": 0.13513513513513514
+    },
+    {
+        "index": 380,
+        "ground_truth": "sao của dư luận trong và ngoài nước. điểm mới nổi bật thứ hai ở nghị quyết",
+        "prediction": "sự của dự án lâm trường và ngoài nước. điều mới nổi bật thứ hai ở nghị quyết",
+        "cer": 0.17567567567567569
+    },
+    {
+        "index": 381,
+        "ground_truth": "này là lần đầu tiên đã xác định rõ trách nhiệm của nhà nước đối với cộng",
+        "prediction": "này là lần đầu tiên đã xác định rõ trách nhiệm của nhà nước đối với công",
+        "cer": 0.013888888888888888
+    },
+    {
+        "index": 382,
+        "ground_truth": "đồng nvơnn.",
+        "prediction": "đồng nvcnn.",
+        "cer": 0.09090909090909091
+    },
+    {
+        "index": 383,
+        "ground_truth": "trước đây, việc bảo hộ nvơnn với tư cách là công dân (đối với những người mang",
+        "prediction": "trước đây, việc bảo hộ nvơnn với tư cách là cũng dân (đối với những người mang",
+        "cer": 0.01282051282051282
+    },
+    {
+        "index": 384,
+        "ground_truth": "quốc tịch vn) hoặc bảo vệ họ với tư cách đồng bào (đối với những người đã nhập",
+        "prediction": "quốc tịch vn) hoặc báo vụ họ với tỉ cách đáng khỏi (đối với những người đạt nhiệm",
+        "cer": 0.16666666666666666
+    },
+    {
+        "index": 385,
+        "ground_truth": "quốc tịch nước khác) có được đề cập nhưng chưa nhấn mạnh. nghị quyết lần này",
+        "prediction": "quốc tịch nước khác) có được đối cấp nhưng chưa nhận mình. nghị quyết lần này",
+        "cer": 0.06578947368421052
+    },
+    {
+        "index": 386,
+        "ground_truth": "khẳng định nhà nước có trách nhiệm bảo vệ quyền lợi chính đáng của cộng",
+        "prediction": "không định nhà nước có trách nhiệm báo về quyền lợi chính đang của công",
+        "cer": 0.07042253521126761
+    },
+    {
+        "index": 387,
+        "ground_truth": "đồng nvơnn theo luật pháp, công ước và thông lệ quốc tế. điểm đổi mới nổi",
+        "prediction": "đồng nđvn theo luật pháp, công ước và thông lệ quốc tế. điểm đổi mới nổi;",
+        "cer": 0.0547945205479452
+    },
+    {
+        "index": 388,
+        "ground_truth": "bật thứ ba là trong phần đề cập tới trách nhiệm của bà con đối với đất",
+        "prediction": "bắt thịt bà là trong phẩm để cấp tới trách nhiệm của bà con đối với đất",
+        "cer": 0.11428571428571428
+    },
+    {
+        "index": 389,
+        "ground_truth": "nước đã không đặt nặng nghĩa vụ đóng góp của bà con.",
+        "prediction": "nước đã không đặt nặng nghĩa vụ đóng góp của bà con.",
+        "cer": 0.0
+    },
+    {
+        "index": 390,
+        "ground_truth": "trước đây, vẫn có nếp nghĩ cho rằng nvơnn là những người có đời sống sung",
+        "prediction": "trước đây, vẫn có nếp nghỉ cho rằng nvơnn là những người có đời sống lạnh,",
+        "cer": 0.0684931506849315
+    },
+    {
+        "index": 391,
+        "ground_truth": "túc hơn nhân dân trong nước, do vậy thường chỉ nghĩ tới nghĩa vụ đóng góp",
+        "prediction": "tức hơn nhân dân trong nước, do vậy thường chỉ nghĩ tới nghĩa vụ đóng góp",
+        "cer": 0.0136986301369863
+    },
+    {
+        "index": 392,
+        "ground_truth": "của họ, chú trọng tới khía cạnh \" khai thác \". nghị quyết lần này nêu rõ",
+        "prediction": "của họ, chủ trọng tới khía cạnh khai thác \". nghị quyết lần này nêu rõ",
+        "cer": 0.041666666666666664
+    },
+    {
+        "index": 393,
+        "ground_truth": "nhà nước khuyến khích bà con đề cao trách nhiệm đối với bản thân mình",
+        "prediction": "nhà nước khuyến khích bà con đò cao trách nhiệm đòi với bản thân mình",
+        "cer": 0.028985507246376812
+    },
+    {
+        "index": 394,
+        "ground_truth": "trước, như thực hiện tốt hội nhập, thực hiện nghiêm chỉnh luật pháp sở tại...",
+        "prediction": "trước, như thực hiện tốt hội nhập, thực hiện nghiêm chỉnh luật pháp số tạo...",
+        "cer": 0.025974025974025976
+    },
+    {
+        "index": 395,
+        "ground_truth": "rồi cuối cùng mới là tùy theo điều kiện và khả năng của mỗi người mà góp",
+        "prediction": "hồi cuối cùng mỗi lái trọy theo điều kiện và khả năng của mỗi người mà gặp",
+        "cer": 0.09722222222222222
+    },
+    {
+        "index": 396,
+        "ground_truth": "phần xây dựng quê hương đất nước.",
+        "prediction": "phân xây dựng quê hương đất nước.",
+        "cer": 0.030303030303030304
+    },
+    {
+        "index": 397,
+        "ground_truth": "những điểm đổi mới này chứng tỏ sự quan tâm và thấu hiểu của nhà nước",
+        "prediction": "những điểm đối mới này chúng tôi sẽ quan tâm và thấu hiểu của nhà nước",
+        "cer": 0.07246376811594203
+    },
+    {
+        "index": 398,
+        "ground_truth": "đối với cuộc sống và cả những khó khăn mà cộng đồng nvơnn đã và đang",
+        "prediction": "đối với cuộc sống và cả những khó khăn mà công động nvơnv đã và sẽ đang",
+        "cer": 0.08823529411764706
+    },
+    {
+        "index": 399,
+        "ground_truth": "gặp phải.",
+        "prediction": "gặp phải.",
+        "cer": 0.0
+    }
+]
