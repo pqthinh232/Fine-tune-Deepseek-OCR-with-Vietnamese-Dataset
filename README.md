@@ -14,11 +14,6 @@ This project focuses on fine-tuning the DeepseekOCR model (using the **Unsloth**
 ## Results
 After 150 training steps using the **QLoRA** technique, the model achieved significant improvements on an independent Test set (400 samples):
 
-| Metric | Baseline (Original) | Fine-tuned (After training) | Improvement |
-|:---|:---:|:---:|:---:|
-| **CER** (Character Error Rate) | 31.92% | **14.05%** | ⬇️ 17.87% |
-| **WER** (Word Error Rate) | 66.69% | **33.31%** | ⬇️ 33.39% |
-
 | Metric | Baseline (%) | Fine-tuned (%) |
 |:---|:---:|:---:|
 | **Total CER** | 32.21 | **14.08** |
@@ -28,10 +23,8 @@ After 150 training steps using the **QLoRA** technique, the model achieved signi
 | Max CER | 131.11 | 75.00 |
 | **Total WER** | 66.74 | **33.58** |
 
----
 
-✅ **Improvement (Total CER):** Decrease **18.13%** on CER.
-✅ **Improvement (Total WER):** Decrease **33.16%** on WER.
+✅ **Improvement:** Decrease **18.13%** on total CER and decrease **33.16%** on total WER.
 
 ### Visual Comparison
 Below are qualitative results on challenging handwritten samples:  
@@ -84,3 +77,9 @@ res = model.infer(
     test_compress=False
 )
 ```
+
+## References
+
+*   **QLoRA:** Dettmers, T., et al. (2023). [*QLoRA: Efficient Finetuning of Quantized LLMs*](https://arxiv.org/pdf/2305.14314). arXiv:2305.14314.
+*   **Unsloth AI:** [*DeepSeek-OCR: How to Run & Fine-tune*](https://docs.unsloth.ai/models/deepseek-ocr-how-to-run-and-fine-tune). Documentation.
+*   **UIT-HWDB Dataset:** Nguyen, N. H., et al. (2022). "UIT-HWDB: Using Transferring Method to Construct A Novel Benchmark for Evaluating Unconstrained Handwriting Image Recognition in Vietnamese". *2022 RIVF International Conference on Computing and Communication Technologies*. [GitHub Repo](https://github.com/nghiangh/UIT-HWDB-dataset).
